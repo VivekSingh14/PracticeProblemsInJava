@@ -1,0 +1,99 @@
+!SESSION 2021-03-11 11:58:23.004 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.10
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -data /home/vivek/Desktop/PracticeProblems_Java/~/.vscode/User/workspaceStorage/37d76b642efe8236f0aeedb0e51be377/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:25.714
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:25.814
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:25.851
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:25.852
+!MESSAGE Initializing Java Language Server 0.70.0.202103051448
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:26.060
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:26.101
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:26.135
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.041
+!MESSAGE Workspace initialized in 982ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.125
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.130
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.135
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.141
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.146
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.165
+!MESSAGE Creating the Java project src_edcb864d
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.194
+!MESSAGE Finished creating the Java project src_edcb864d
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.561
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.562
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.692
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.713
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.717
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:27.728
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:28.119
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:29.147
+!MESSAGE begin problem for /Armstrong.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:29.149
+!MESSAGE Resource leak: 'sc' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:29.150
+!MESSAGE 1 problems reported for /Armstrong.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:29.176
+!MESSAGE Validated 1. Took 607 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:29.588
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:32.099
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:32.112
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:32.142
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-11 11:58:32.166
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

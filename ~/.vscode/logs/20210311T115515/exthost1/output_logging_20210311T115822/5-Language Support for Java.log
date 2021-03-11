@@ -1,0 +1,134 @@
+[Error - 11:59:04 am] 11-Mar-2021, 11:59:04 AM Error occured while building workspace. Details: 
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 3
+ message: The import org.bson cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 4
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 5
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoCredential cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 12
+ message: MongoCredential cannot be resolved; code: 570425394; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 13
+ message: MongoDatabase cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 16
+ message: MongoCollection cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: The declared package "mongo_learn" does not match the expected package "mongo_Learn"; code: 536871240; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 1
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 2
+[Error - 11:59:42 am] 11-Mar-2021, 11:59:42 AM Error occured while building workspace. Details: 
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 3
+ message: The import org.bson cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 4
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 5
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoCredential cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 12
+ message: MongoCredential cannot be resolved; code: 570425394; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 13
+ message: MongoDatabase cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 16
+ message: MongoCollection cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: The declared package "mongo_learn" does not match the expected package "mongo_Learn"; code: 536871240; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 1
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 2
+[Error - 12:06:10 pm] 11-Mar-2021, 12:06:10 PM Unable to load IDecompiler class for jarFileContentProvider
+[Error - 5:46:00 pm] 11-Mar-2021, 5:46:00 PM Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package basic_programs;
+
+public class ReverseArray {
+    public static void main(String args[]){
+        int arr[] = {1,2,3,4,5,6};
+         
+        for(int i =0 ;i< arr.length/2; i++){
+            int temp = arr[i];
+            arr[i] = arr[arr.length-1];
+            arr[arr.length-1] = temp;
+            (arr.length-1)
+        }
+    }
+}
+
+----------------------------------- SOURCE END -------------------------------------
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2193)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2965)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.internal.corext.refactoring.util.RefactoringASTParser.parse(RefactoringASTParser.java:85)
+	at org.eclipse.jdt.internal.corext.refactoring.rename.RefactoringAnalyzeUtil.checkNewSource(RefactoringAnalyzeUtil.java:136)
+	at org.eclipse.jdt.internal.corext.refactoring.code.InlineTempRefactoring.checkFinalConditions(InlineTempRefactoring.java:297)
+	at org.eclipse.jdt.ls.core.internal.corrections.proposals.RefactoringCorrectionProposal.createTextChange(RefactoringCorrectionProposal.java:53)
+	at org.eclipse.jdt.ls.core.internal.corrections.proposals.CUCorrectionProposal.createChange(CUCorrectionProposal.java:115)
+	at org.eclipse.jdt.core.manipulation.ChangeCorrectionProposalCore.getChange(ChangeCorrectionProposalCore.java:150)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionFromProposal(CodeActionHandler.java:228)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:194)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:646)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 5:46:00 pm] Request textDocument/codeAction failed.
+  Message: Internal error.
+  Code: -32603 
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:645)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+Caused by: java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2193)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2965)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.internal.corext.refactoring.util.RefactoringASTParser.parse(RefactoringASTParser.java:85)
+	at org.eclipse.jdt.internal.corext.refactoring.rename.RefactoringAnalyzeUtil.checkNewSource(RefactoringAnalyzeUtil.java:136)
+	at org.eclipse.jdt.internal.corext.refactoring.code.InlineTempRefactoring.checkFinalConditions(InlineTempRefactoring.java:297)
+	at org.eclipse.jdt.ls.core.internal.corrections.proposals.RefactoringCorrectionProposal.createTextChange(RefactoringCorrectionProposal.java:53)
+	at org.eclipse.jdt.ls.core.internal.corrections.proposals.CUCorrectionProposal.createChange(CUCorrectionProposal.java:115)
+	at org.eclipse.jdt.core.manipulation.ChangeCorrectionProposalCore.getChange(ChangeCorrectionProposalCore.java:150)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionFromProposal(CodeActionHandler.java:228)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:194)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:646)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	... 6 more
+
