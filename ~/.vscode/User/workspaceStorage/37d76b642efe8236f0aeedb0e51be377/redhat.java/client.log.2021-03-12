@@ -62,3 +62,8 @@
   level: 'info',
   timestamp: '2021-03-12 22:19:52.340'
 }
+{
+  message: "Failed to provide hover command Error: The request (id: 4174, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2021-03-12 23:08:34.418'
+}
