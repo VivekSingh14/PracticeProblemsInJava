@@ -462,3 +462,394 @@
 	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
 	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
 	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:41:27.057] [renderer1] [error] Can't run recursive splices.: Error: Can't run recursive splices.
+    at o.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:11096)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3:139342
+    at Array.forEach (<anonymous>)
+    at t.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3:139329)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:7711
+    at d.bufferEvents (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:4384)
+    at L.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:7678)
+    at L.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:162:44086)
+    at Object.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:63632)
+    at C.refilter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:49818)
+    at D.refilter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:57484)
+    at u.refilter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:62728)
+    at h.refilter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:65892)
+    at C.refilter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:873)
+    at I.updateOptions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:162:36192)
+    at C.updateOptions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:162:48603)
+    at C.updateOptions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:8490)
+    at G.updateOptions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:26799)
+    at qr.setEditable (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2546:19859)
+    at Lo.setEditable (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1884:17572)
+    at Object.onFinish (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2545:12001)
+    at Object.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2545:45454)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6:6231
+    at HTMLInputElement.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2545:46049)
+    at h.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:68856)
+    at Ea.renderInputBox (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2545:45269)
+    at Ea.renderElement (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2545:42788)
+    at E.renderElement (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:25063)
+    at y.renderElement (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:7194)
+    at w.renderElement (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:162:30212)
+    at z.renderElement (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:1588)
+    at o.insertItemInDOM (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:17138)
+    at o._splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:12953)
+    at o.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:11171)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3:139342
+    at Array.forEach (<anonymous>)
+    at t.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3:139329)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:7711
+    at d.bufferEvents (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:4384)
+    at L.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:7678)
+    at L.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:162:44086)
+    at Object.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:63632)
+    at C.spliceSimple (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:47189)
+    at C.splice (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:45418)
+    at D._setChildren (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:55297)
+    at D.setChildren (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:54635)
+    at u._setChildren (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:61195)
+    at u.setChildren (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:60640)
+    at h.setChildren (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:64767)
+    at C.setChildren (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:8378)
+    at G.render (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:23111)
+    at G.render (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:27675)
+    at G.refreshAndRenderNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:19816)
+    at async G._updateChildren (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:17022)
+    at async G.updateChildren (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:163:16688)
+    at async qr.setEditable (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2546:20003)
+    at async Lo.setEditable (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1884:17556)
+    at async ye (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2545:11892)
+    at async handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2545:12116)
+[2021-03-14 00:41:32.491] [renderer1] [error] The request (id: 6235, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6235, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:41:32.870] [renderer1] [error] The request (id: 6239, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6239, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:42:52.846] [renderer1] [error] The request (id: 6300, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6300, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:44:22.902] [renderer1] [error] The request (id: 6447, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6447, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:44:42.615] [renderer1] [error] The request (id: 6487, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6487, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:44:44.733] [renderer1] [error] The request (id: 6501, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6501, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:46:04.932] [renderer1] [error] Running the contributed command: 'java.execute.workspaceCommand' failed.: Error: Running the contributed command: 'java.execute.workspaceCommand' failed.
+	at b._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:88571)
+[2021-03-14 00:46:04.949] [renderer1] [error] Running the contributed command: 'java.execute.workspaceCommand' failed.: Error: Running the contributed command: 'java.execute.workspaceCommand' failed.
+	at b._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:88571)
+	at runMicrotasks (<anonymous>)
+	at runNextTicks (internal/process/task_queues.js:62:5)
+	at processImmediate (internal/timers.js:429:9)
+[2021-03-14 00:46:04.982] [renderer1] [error] Running the contributed command: 'java.execute.workspaceCommand' failed.: Error: Running the contributed command: 'java.execute.workspaceCommand' failed.
+	at b._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:88571)
+[2021-03-14 00:46:10.336] [renderer1] [error] The request (id: 6671, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6671, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:46:38.937] [renderer1] [error] The request (id: 6682, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6682, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:49:16.615] [renderer1] [error] The request (id: 6709, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6709, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:49:32.121] [renderer1] [error] The request (id: 6780, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6780, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:49:46.243] [renderer1] [error] The request (id: 6828, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6828, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:49:48.652] [renderer1] [error] The request (id: 6838, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6838, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:50:08.026] [renderer1] [error] The request (id: 6930, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6930, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:50:08.978] [renderer1] [error] The request (id: 6935, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6935, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:56:27.527] [renderer1] [error] The request (id: 7135, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7135, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:56:39.668] [renderer1] [error] The request (id: 7196, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7196, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:56:44.998] [renderer1] [error] The request (id: 7226, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7226, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:56:46.294] [renderer1] [error] The request (id: 7236, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7236, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:56:55.737] [renderer1] [error] The request (id: 7286, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7286, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:57:03.739] [renderer1] [error] The request (id: 7310, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7310, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:57:51.867] [renderer1] [error] The request (id: 7503, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7503, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:57:57.303] [renderer1] [error] The request (id: 7524, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7524, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:58:03.456] [renderer1] [error] The request (id: 7548, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7548, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:58:04.856] [renderer1] [error] The request (id: 7566, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7566, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:58:20.314] [renderer1] [error] The request (id: 7632, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7632, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:58:41.636] [renderer1] [error] The request (id: 7695, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7695, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:58:45.550] [renderer1] [error] The request (id: 7730, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7730, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:58:45.739] [renderer1] [error] Running the contributed command: 'java.execute.workspaceCommand' failed.: Error: Running the contributed command: 'java.execute.workspaceCommand' failed.
+	at b._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:88571)
+[2021-03-14 00:58:46.572] [renderer1] [error] The request (id: 7736, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7736, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:58:59.116] [renderer1] [error] The request (id: 7811, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7811, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:59:02.047] [renderer1] [error] The request (id: 7833, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7833, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 00:59:12.808] [renderer1] [error] The request (id: 7879, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7879, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:01:06.214] [renderer1] [error] The request (id: 7989, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 7989, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:01:58.369] [renderer1] [error] The request (id: 8025, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8025, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:01:58.730] [renderer1] [error] The request (id: 8029, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8029, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:02:47.768] [renderer1] [error] The request (id: 8041, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8041, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:02:57.437] [renderer1] [error] The request (id: 8100, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8100, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:03:18.582] [renderer1] [error] The request (id: 8125, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8125, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:03:24.265] [renderer1] [error] The request (id: 8132, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8132, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:03:38.657] [renderer1] [error] The request (id: 8148, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8148, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:03:41.854] [renderer1] [error] The request (id: 8170, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8170, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:03:44.549] [renderer1] [error] The request (id: 8186, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8186, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:03:45.128] [renderer1] [error] The request (id: 8191, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8191, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:03:47.301] [renderer1] [error] The request (id: 8202, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8202, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:04:58.144] [renderer1] [error] The request (id: 8299, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8299, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:05:08.452] [renderer1] [error] The request (id: 8326, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8326, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:06:57.636] [renderer1] [error] The request (id: 8521, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8521, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:07:16.232] [renderer1] [error] The request (id: 8598, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8598, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:08:45.155] [renderer1] [error] The request (id: 8791, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8791, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:08:54.152] [renderer1] [error] The request (id: 8850, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 8850, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:09:43.585] [renderer1] [error] Running the contributed command: 'java.execute.workspaceCommand' failed.: Error: Running the contributed command: 'java.execute.workspaceCommand' failed.
+	at b._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:88571)
+	at runMicrotasks (<anonymous>)
+	at runNextTicks (internal/process/task_queues.js:62:5)
+	at processImmediate (internal/timers.js:429:9)
+[2021-03-14 01:09:50.808] [renderer1] [error] The request (id: 9043, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9043, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:09:51.534] [renderer1] [error] The request (id: 9047, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9047, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:09:58.027] [renderer1] [error] The request (id: 9071, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9071, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:10:29.838] [renderer1] [error] The request (id: 9192, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9192, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:10:35.298] [renderer1] [error] The request (id: 9227, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9227, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:10:50.752] [renderer1] [error] The request (id: 9296, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9296, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:10:52.525] [renderer1] [error] The request (id: 9309, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9309, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:10:58.580] [renderer1] [error] The request (id: 9338, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9338, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:11:11.790] [renderer1] [error] The request (id: 9407, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9407, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:11:42.172] [renderer1] [error] The request (id: 9533, method: 'textDocument/hover') has been cancelled: Error: The request (id: 9533, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:12:03.210] [renderer1] [error] The request (id: 9562, method: 'textDocument/hover') has been cancelled: Error: The request (id: 9562, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:12:28.191] [renderer1] [error] The request (id: 9641, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9641, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:13:43.527] [renderer1] [error] The request (id: 9763, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9763, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-03-14 01:13:55.415] [renderer1] [error] The request (id: 9779, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 9779, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
