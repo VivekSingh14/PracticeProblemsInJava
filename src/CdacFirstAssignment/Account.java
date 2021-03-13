@@ -43,10 +43,19 @@ public class Account {
     }
     
     public double deposit(double amount){
-        return getBalance()+amount;
+        setBalance(getBalance()+amount);
+        return getBalance();
     }
     public double withdraw(double amount){
-        return 0.0;
+        setBalance(getBalance()-amount);
+        return getBalance();
     }
+
+    public static void transfer(double amount, Account source, Account target){
+        System.out.println("Amount transferred Successfully");
+        System.out.println("Amount withdrawn. \n"+source.getAccountId() +"'s total balance is: " +source.withdraw(amount));
+        System.out.println("Amount deposited. \n"+target.getAccountId() +"'s total balance is: " +target.deposit(amount));
+
+ }
     
 }
