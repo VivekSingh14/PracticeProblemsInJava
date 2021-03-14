@@ -7,6 +7,8 @@ public class LinkedList {
     public LinkedList() {
         head = null;
     }
+    
+    
 
     public boolean insert(Employee employee){
            Node newNode = new Node(employee);

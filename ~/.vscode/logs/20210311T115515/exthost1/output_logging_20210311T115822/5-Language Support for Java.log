@@ -185,3 +185,48 @@ Java Model Exception: Java Model Status [Unknown javadoc format for Math [in Mat
 	at java.base/java.lang.Thread.run(Thread.java:834)
 
 [Error - 1:39:45 am] 14-Mar-2021, 1:39:45 AM Unable to load IDecompiler class for jarFileContentProvider
+[Error - 11:28:14 pm] 14-Mar-2021, 11:28:14 PM Error occured while building workspace. Details: 
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 3
+ message: The import org.bson cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 4
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 5
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoCredential cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 12
+ message: MongoCredential cannot be resolved; code: 570425394; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 13
+ message: MongoDatabase cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 16
+ message: MongoCollection cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: The declared package "mongo_learn" does not match the expected package "mongo_Learn"; code: 536871240; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 1
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 2
+[Error - 11:29:11 pm] 14-Mar-2021, 11:29:11 PM Error occured while building workspace. Details: 
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 3
+ message: The import org.bson cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 4
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 5
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoCredential cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 12
+ message: MongoCredential cannot be resolved; code: 570425394; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 13
+ message: MongoDatabase cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 16
+ message: MongoCollection cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: The declared package "mongo_learn" does not match the expected package "mongo_Learn"; code: 536871240; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 1
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 2
+[Error - 11:38:23 pm] 14-Mar-2021, 11:38:23 PM Error occured while building workspace. Details: 
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 3
+ message: The import org.bson cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 4
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 5
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoCredential cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 12
+ message: MongoCredential cannot be resolved; code: 570425394; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 13
+ message: MongoDatabase cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 16
+ message: MongoCollection cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: The declared package "mongo_learn" does not match the expected package "mongo_Learn"; code: 536871240; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 1
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 2
