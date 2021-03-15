@@ -6,3 +6,9 @@
 [2021-03-12 21:50:23.066] [sharedprocess] [error] [uncaught exception in sharedProcess]: XHR failed: downloading: XHR failed
     at N.downloadInstallableExtension (file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:49:26436)
     at async N.doInstallFromGallery (file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:49:23863)
+[2021-03-15 11:35:11.828] [sharedprocess] [info] Installing extension: golang.go
+[2021-03-15 11:35:13.570] [sharedprocess] [info] Downloaded extension: golang.go undefined
+[2021-03-15 11:35:13.679] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.golang.go-0.23.2: golang.go
+[2021-03-15 11:35:13.680] [sharedprocess] [info] Renamed to /root/.vscode/extensions/golang.go-0.23.2
+[2021-03-15 11:35:13.681] [sharedprocess] [info] Installation completed. golang.go
+[2021-03-15 11:35:13.757] [sharedprocess] [info] Extensions installed successfully: golang.go

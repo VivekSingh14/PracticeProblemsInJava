@@ -35,6 +35,13 @@ public class LinkedList {
         }
     }
 
+    public void display(Node temp){
+        while(temp != null){
+            System.out.println(temp.getEmployee().getFirstName());
+            temp = temp.getNext();
+        }
+    }
+
     public String middleNode(){
         Node slow = head;
         Node fast = head;
@@ -47,5 +54,25 @@ public class LinkedList {
         return slow.getEmployee().getFirstName();
     }
 
+    public Node reverse(Node temp){
+        Node prev = null;
+        Node current = temp;
+        Node forward = null;
+
+        while (current != null) {
+            forward = current.getNext();
+            current.setNext(prev);
+            prev = current;
+            current = forward;
+        }
+        temp = prev;
+        return temp;
+    }
+
+
+
+    public Node getHead() {
+        return head;
+    }
 
 }
