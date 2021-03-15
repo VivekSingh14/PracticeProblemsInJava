@@ -8,7 +8,9 @@ public class LinkedList {
         head = null;
     }
     
-    
+    public Node getHead() {
+        return head;
+    }
 
     public boolean insert(Employee employee){
            Node newNode = new Node(employee);
@@ -69,10 +71,13 @@ public class LinkedList {
         return temp;
     }
 
-
-
-    public Node getHead() {
-        return head;
+    public int lengthOfList(Node temp){
+        int count = 0;
+        while(temp != null){
+            count++;
+            temp = temp.getNext();
+        }
+        
+        return count;
     }
-
 }

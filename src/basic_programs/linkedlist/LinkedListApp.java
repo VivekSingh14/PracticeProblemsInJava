@@ -20,5 +20,7 @@ public class LinkedListApp {
         System.out.println("******Reversed List******");
         Node headNew = list.reverse(list.getHead());
         list.display(headNew);
+        System.out.println("*************length of list************");
+        System.out.println("length is: " +list.lengthOfList(headNew));
     }
 }
