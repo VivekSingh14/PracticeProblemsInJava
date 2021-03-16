@@ -17,10 +17,12 @@ public class LinkedListApp {
         System.out.println("**********************");
         System.out.println("*************Middle Node***************");
         System.out.println(list.middleNode());
-        System.out.println("******Reversed List******");
-        Node headNew = list.reverse(list.getHead());
-        list.display(headNew);
-        System.out.println("*************length of list************");
-        System.out.println("length is: " +list.lengthOfList(headNew));
+        //System.out.println("******Reversed List******");
+        //Node headNew = list.reverse(list.getHead());
+        //list.display(headNew);
+        //System.out.println("*************length of list************");
+        //System.out.println("length is: " +list.lengthOfList(headNew));
+        System.out.println("*********third node from last**********");
+        System.out.println(list.thirdlastNode());
     }
 }

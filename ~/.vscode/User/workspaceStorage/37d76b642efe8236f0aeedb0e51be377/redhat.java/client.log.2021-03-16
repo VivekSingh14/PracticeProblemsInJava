@@ -13,3 +13,171 @@
   level: 'error',
   timestamp: '2021-03-16 00:47:05.716'
 }
+{
+  message: '[Error - 12:11:41 pm] 16-Mar-2021, 12:11:41 PM Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]\n' +
+    'Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]\n' +
+    'Java Model Exception: Java Model Status [Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:834)\n',
+  level: 'info',
+  timestamp: '2021-03-16 12:11:41.098'
+}
+{
+  message: '[Error - 12:11:41 pm] 16-Mar-2021, 12:11:41 PM Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]\n' +
+    'Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]\n' +
+    'Java Model Exception: Java Model Status [Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:834)\n',
+  level: 'info',
+  timestamp: '2021-03-16 12:11:41.176'
+}
+{
+  message: '[Error - 12:12:00 pm] 16-Mar-2021, 12:12:00 PM Timed out while retrieving the attached javadoc for StackOverflowError [in StackOverflowError.class [in java.lang [in <module:java.base>]]] \n' +
+    'Timed out while retrieving the attached javadoc for StackOverflowError [in StackOverflowError.class [in java.lang [in <module:java.base>]]] \n' +
+    'Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for StackOverflowError [in StackOverflowError.class [in java.lang [in <module:java.base>]]] ]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:834)\n',
+  level: 'info',
+  timestamp: '2021-03-16 12:12:00.789'
+}
+{
+  message: '[Error - 12:12:00 pm] 16-Mar-2021, 12:12:00 PM Timed out while retrieving the attached javadoc for SafeVarargs [in SafeVarargs.class [in java.lang [in <module:java.base>]]] \n' +
+    'Timed out while retrieving the attached javadoc for SafeVarargs [in SafeVarargs.class [in java.lang [in <module:java.base>]]] \n' +
+    'Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for SafeVarargs [in SafeVarargs.class [in java.lang [in <module:java.base>]]] ]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:834)\n',
+  level: 'info',
+  timestamp: '2021-03-16 12:12:00.905'
+}
+{
+  message: '[Error - 12:12:01 pm] 16-Mar-2021, 12:12:01 PM Timed out while retrieving the attached javadoc for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]] \n' +
+    'Timed out while retrieving the attached javadoc for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]] \n' +
+    'Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]] ]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:834)\n',
+  level: 'info',
+  timestamp: '2021-03-16 12:12:01.249'
+}
+{
+  message: '[Error - 12:12:01 pm] 16-Mar-2021, 12:12:01 PM Timed out while retrieving the attached javadoc for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]] \n' +
+    'Timed out while retrieving the attached javadoc for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]] \n' +
+    'Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]] ]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:834)\n',
+  level: 'info',
+  timestamp: '2021-03-16 12:12:01.251'
+}
+{
+  message: '[Error - 12:12:27 pm] 16-Mar-2021, 12:12:27 PM Timed out while retrieving the attached javadoc for NegativeArraySizeException [in NegativeArraySizeException.class [in java.lang [in <module:java.base>]]] \n' +
+    'Timed out while retrieving the attached javadoc for NegativeArraySizeException [in NegativeArraySizeException.class [in java.lang [in <module:java.base>]]] \n' +
+    'Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for NegativeArraySizeException [in NegativeArraySizeException.class [in java.lang [in <module:java.base>]]] ]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:834)\n',
+  level: 'info',
+  timestamp: '2021-03-16 12:12:27.765'
+}
+{
+  message: '[Error - 12:13:10 pm] 16-Mar-2021, 12:13:10 PM Timed out while retrieving the attached javadoc for TransportFactoryImpl [in TransportFactoryImpl.class [in jdk.internal.net.http.websocket [in <module:java.net.http>]]] \n' +
+    'Timed out while retrieving the attached javadoc for TransportFactoryImpl [in TransportFactoryImpl.class [in jdk.internal.net.http.websocket [in <module:java.net.http>]]] \n' +
+    'Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for TransportFactoryImpl [in TransportFactoryImpl.class [in jdk.internal.net.http.websocket [in <module:java.net.http>]]] ]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:834)\n',
+  level: 'info',
+  timestamp: '2021-03-16 12:13:10.900'
+}
+{
+  message: '[Error - 12:13:10 pm] 16-Mar-2021, 12:13:10 PM Timed out while retrieving the attached javadoc for TypeAnnotationNode [in TypeAnnotationNode.class [in jdk.internal.org.objectweb.asm.tree [in <module:java.base>]]] \n' +
+    'Timed out while retrieving the attached javadoc for TypeAnnotationNode [in TypeAnnotationNode.class [in jdk.internal.org.objectweb.asm.tree [in <module:java.base>]]] \n' +
+    'Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for TypeAnnotationNode [in TypeAnnotationNode.class [in jdk.internal.org.objectweb.asm.tree [in <module:java.base>]]] ]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:834)\n',
+  level: 'info',
+  timestamp: '2021-03-16 12:13:10.904'
+}
+{
+  message: '[Error - 12:13:11 pm] 16-Mar-2021, 12:13:11 PM Timed out while retrieving the attached javadoc for TypeAnnotationNode [in TypeAnnotationNode.class [in jdk.internal.org.objectweb.asm.tree [in <module:java.base>]]] \n' +
+    'Timed out while retrieving the attached javadoc for TypeAnnotationNode [in TypeAnnotationNode.class [in jdk.internal.org.objectweb.asm.tree [in <module:java.base>]]] \n' +
+    'Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for TypeAnnotationNode [in TypeAnnotationNode.class [in jdk.internal.org.objectweb.asm.tree [in <module:java.base>]]] ]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)\n' +
+    '\tat org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:834)\n',
+  level: 'info',
+  timestamp: '2021-03-16 12:13:11.107'
+}

@@ -80,4 +80,19 @@ public class LinkedList {
         
         return count;
     }
+
+    public String thirdlastNode(){
+        Node temp = head;
+        int totalNodes = 0;
+        while(temp != null){
+            totalNodes++;
+            temp = temp.getNext();
+        }
+         Node temp1 = head;
+        for(int i=1; i < totalNodes-2; i++){
+            temp1 = temp1.getNext();
+        }
+        
+        return temp1.getEmployee().getFirstName();
+    }
 }
