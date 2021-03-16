@@ -22,7 +22,7 @@ public class LinkedListApp {
         //list.display(headNew);
         //System.out.println("*************length of list************");
         //System.out.println("length is: " +list.lengthOfList(headNew));
-        System.out.println("*********third node from last**********");
+        System.out.println("**********third node from last**********");
         System.out.println(list.thirdlastNode());
     }
 }
