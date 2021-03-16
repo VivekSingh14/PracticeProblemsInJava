@@ -368,3 +368,82 @@ Java Model Exception: Java Model Status [Timed out while retrieving the attached
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:834)
 
+[Error - 12:28:54 pm] 16-Mar-2021, 12:28:54 PM Unknown javadoc format for standard [in standard.class [in jdk.javadoc.internal.doclets.formats.html.resources [in <module:jdk.javadoc>]]]
+Unknown javadoc format for standard [in standard.class [in jdk.javadoc.internal.doclets.formats.html.resources [in <module:jdk.javadoc>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for standard [in standard.class [in jdk.javadoc.internal.doclets.formats.html.resources [in <module:jdk.javadoc>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 12:29:06 pm] 16-Mar-2021, 12:29:06 PM Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 12:29:07 pm] 16-Mar-2021, 12:29:07 PM Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 12:29:07 pm] 16-Mar-2021, 12:29:07 PM Unknown javadoc format for StackOverflowError [in StackOverflowError.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for StackOverflowError [in StackOverflowError.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for StackOverflowError [in StackOverflowError.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 12:29:07 pm] 16-Mar-2021, 12:29:07 PM Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 12:29:17 pm] 16-Mar-2021, 12:29:17 PM Timed out while retrieving the attached javadoc for VMNotification [in VMNotification.class [in jdk.internal.misc [in <module:java.base>]]] 
+Timed out while retrieving the attached javadoc for VMNotification [in VMNotification.class [in jdk.internal.misc [in <module:java.base>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for VMNotification [in VMNotification.class [in jdk.internal.misc [in <module:java.base>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
