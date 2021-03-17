@@ -20,6 +20,6 @@ public class Matrics {
             }
             System.out.println();
         }
+        sc.close();
     }
-    
 }

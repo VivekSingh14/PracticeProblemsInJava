@@ -19,7 +19,7 @@ public class Armstrong {
              System.out.println(armstrong +" number is armstrong.");
          }else{
              System.out.println("not an armstrong");
-         }
-
+        }
+        sc.close();
     }   
 }

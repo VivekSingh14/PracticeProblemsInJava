@@ -1,7 +1,6 @@
 package basic_programs;
 
 import java.util.HashMap;
-import java.util.Scanner;
 
 public class DuplicateCharactersfromString {
     public static void main(String args[]){
@@ -26,6 +25,6 @@ public class DuplicateCharactersfromString {
                 System.out.println(c);
             }
         }
-
+    
     }
 }

@@ -1,6 +1,5 @@
 package basic_programs;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ReverseSentence {
@@ -16,6 +15,7 @@ public class ReverseSentence {
         }
         System.out.print(".");
         System.out.println();
+        sc.close();
 
     }
     

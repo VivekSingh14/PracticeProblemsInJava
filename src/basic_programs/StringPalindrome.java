@@ -22,5 +22,6 @@ public class StringPalindrome {
         }else{
             System.out.println("yes, it is palindrome.");
         }
+        sc.close();
     }
 }

@@ -30,9 +30,7 @@ public class OccurrencesCharacter {
             }
             System.out.print(arrCopy[i] +" "+ count);
         }
-
-
-
+        sc.close();
 
     }
 }

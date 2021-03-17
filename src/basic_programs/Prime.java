@@ -20,5 +20,6 @@ public class Prime {
         }else{
             System.out.println(num+" number is prime.");
         }
+        sc.close();
     }
 }
