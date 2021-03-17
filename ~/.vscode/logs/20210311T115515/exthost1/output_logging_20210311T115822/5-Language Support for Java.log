@@ -689,3 +689,134 @@ Java Model Exception: Java Model Status [Unknown javadoc format for String [in S
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
 
+[Error - 9:45:43 pm] 17-Mar-2021, 9:45:43 PM Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 9:45:43 pm] 17-Mar-2021, 9:45:43 PM Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 9:45:43 pm] 17-Mar-2021, 9:45:43 PM Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 9:45:43 pm] 17-Mar-2021, 9:45:43 PM Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 9:45:49 pm] 17-Mar-2021, 9:45:49 PM Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 9:45:49 pm] 17-Mar-2021, 9:45:49 PM Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 9:45:50 pm] 17-Mar-2021, 9:45:50 PM Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 9:46:07 pm] 17-Mar-2021, 9:46:07 PM Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 9:46:07 pm] 17-Mar-2021, 9:46:07 PM Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for StrictMath [in StrictMath.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 9:46:07 pm] 17-Mar-2021, 9:46:07 PM Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for String [in String.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 9:55:51 pm] 17-Mar-2021, 9:55:51 PM Unable to load IDecompiler class for jarFileContentProvider
