@@ -8,6 +8,11 @@ public class Node {
         this.employee = employee;
         this.next = null;
     }
+    //testing purpose:::for testing if list is circular or not.
+    public Node (Employee employee, Node node){
+        this.employee = employee;
+        this.next = node;
+    }
     
     public Employee getEmployee() {
         return employee;

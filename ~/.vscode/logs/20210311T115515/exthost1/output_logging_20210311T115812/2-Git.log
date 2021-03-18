@@ -3381,3 +3381,428 @@ Open repository: /home/vivek/Desktop/PracticeProblems_Java
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/FirstNonRepeatedChar.java
+> git cat-file -s 5d8d318e18cd90cf73f6549eb62e11e891b4f3f3
+> git show --textconv :src/basic_programs/FirstNonRepeatedChar.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/FirstNonRepeatedChar.java
+> git cat-file -s 5d8d318e18cd90cf73f6549eb62e11e891b4f3f3
+> git show --textconv :src/basic_programs/FirstNonRepeatedChar.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/FirstNonRepeatedCharUpdated.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/FirstNonRepeatedCharUpdated.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/FirstNonRepeatedChar.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/FirstNonRepeatedChar.java
+> git cat-file -s 5d8d318e18cd90cf73f6549eb62e11e891b4f3f3
+> git show --textconv :src/basic_programs/FirstNonRepeatedCharUpdated.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/FirstNonRepeatedCharUpdated.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git show --textconv :src/basic_programs/linkedlist/LinkedList.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedList.java
+> git cat-file -s e17d69c387e96b54264a3921cb2df3644ee29687
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git show --textconv :src/basic_programs/linkedlist/LinkedList.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedList.java
+> git cat-file -s e17d69c387e96b54264a3921cb2df3644ee29687
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git show --textconv :src/basic_programs/linkedlist/LinkedList.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedList.java
+> git cat-file -s e17d69c387e96b54264a3921cb2df3644ee29687
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git show --textconv :src/basic_programs/linkedlist/LinkedList.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedList.java
+> git cat-file -s e17d69c387e96b54264a3921cb2df3644ee29687
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git show --textconv :src/basic_programs/linkedlist/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/Node.java
+> git cat-file -s 31d91f1dbfcd047b57397fa2a98b61ffcd37a76c
+> git show --textconv :src/basic_programs/linkedlist/LinkedList.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedList.java
+> git cat-file -s e17d69c387e96b54264a3921cb2df3644ee29687
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s e5aa60fe4335526cbb49b039efdbf780e3965159
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/LinkedList.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedList.java
+> git cat-file -s e17d69c387e96b54264a3921cb2df3644ee29687
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/binarytreeImplementation/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/binarytreeImplementation/Node.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/binarytreeImplementation/BinaryTree.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/binarytreeImplementation/BinaryTree.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/linkedlist/LinkedList.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedList.java
+> git cat-file -s e17d69c387e96b54264a3921cb2df3644ee29687
+> git show --textconv :src/basic_programs/binarytreeImplementation/BinaryTree.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/binarytreeImplementation/BinaryTree.java
+> git show --textconv :src/basic_programs/linkedlist/LinkedList.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedList.java
+> git cat-file -s e17d69c387e96b54264a3921cb2df3644ee29687
+> git show --textconv :src/basic_programs/binarytreeImplementation/BinaryTree.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/binarytreeImplementation/BinaryTree.java
+> git show --textconv :src/basic_programs/binarytreeImplementation/Node.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/binarytreeImplementation/Node.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/binarytreeImplementation/BinaryTree.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/binarytreeImplementation/BinaryTree.java
+> git show --textconv :src/basic_programs/linkedlist/LinkedList.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedList.java
+> git cat-file -s e17d69c387e96b54264a3921cb2df3644ee29687
+> git show --textconv :src/basic_programs/binarytreeImplementation/BinaryTree.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/binarytreeImplementation/BinaryTree.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

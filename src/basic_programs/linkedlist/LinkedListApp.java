@@ -12,17 +12,27 @@ public class LinkedListApp {
         list.insert(employee3);
         list.insert(employee4);
         list.insert(employee5);
+
+
+        /*method overloading + constructor overloading(testing purpose)
+        /list.insert(employee5, list.getHead());*/
+
+
         System.out.println("**********************");
         list.display();
         System.out.println("**********************");
-        System.out.println("*************Middle Node***************");
-        System.out.println(list.middleNode());
+        //System.out.println("*************Middle Node***************");
+        //System.out.println(list.middleNode());
         //System.out.println("******Reversed List******");
         //Node headNew = list.reverse(list.getHead());
         //list.display(headNew);
         //System.out.println("*************length of list************");
         //System.out.println("length is: " +list.lengthOfList(headNew));
-        System.out.println("**********third node from last**********");
-        System.out.println(list.thirdlastNode());
+        //System.out.println("**********third node from last**********");
+        //System.out.println(list.thirdlastNode());
+
+        // checking if list is circular !
+        System.out.println("is list circular: "+ list.isCircular());
+        
     }
 }

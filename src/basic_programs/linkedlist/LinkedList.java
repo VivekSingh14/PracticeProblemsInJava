@@ -28,6 +28,23 @@ public class LinkedList {
 
         return true;
     }
+    //insert method overloaded for testing purpose
+    public boolean insert(Employee employee, Node node){
+        Node newNode = new Node(employee, node);
+ 
+        if(head == null){
+            head = newNode;
+            return true;
+        }
+
+        Node temp = head;
+        while(temp.getNext() != null){
+            temp = temp.getNext();
+        }
+        temp.setNext(newNode);
+
+     return true;
+ }
     
     public void display(){
         Node temp = head;
@@ -94,5 +111,17 @@ public class LinkedList {
         }
         
         return temp1.getEmployee().getFirstName();
+    }
+
+    public boolean isCircular(){
+        Node temp = head;
+        if(head == null)
+        return true;
+
+        temp = head.getNext();
+        while(temp != null && temp != head){
+            temp = temp.getNext();
+        }
+        return (temp == head);
     }
 }
