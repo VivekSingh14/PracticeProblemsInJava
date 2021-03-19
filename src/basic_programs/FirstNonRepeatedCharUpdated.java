@@ -21,7 +21,7 @@ public class FirstNonRepeatedCharUpdated {
         }
 
         boolean found = false;
-        for(Entry entry: map.entrySet()){
+        for(Entry<Character, Integer> entry: map.entrySet()){
             if(entry.getValue().equals(1)){
                 System.out.println("First non repeated char: "+ entry.getKey());
                 found =true;
