@@ -16,8 +16,13 @@ public class LinearSearch {
                 break;
             }
         }
+        if(flag == true){
         System.out.println("Number at position: "+ (i+1));
-
+        }else{
+            System.out.println("Number not found.");
+        }
+        
+        sc.close();
 
     }
 }
