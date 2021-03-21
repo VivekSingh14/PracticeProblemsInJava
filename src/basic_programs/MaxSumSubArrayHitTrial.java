@@ -1,6 +1,5 @@
 package basic_programs;
 
-import java.util.Arrays;
 
 public class MaxSumSubArrayHitTrial {
     public static void main(String args[]){
