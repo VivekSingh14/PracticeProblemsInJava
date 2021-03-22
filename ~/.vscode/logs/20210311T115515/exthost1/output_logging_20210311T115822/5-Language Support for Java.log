@@ -1243,3 +1243,180 @@ Caused by: org.eclipse.text.edits.MalformedTreeException: Source edit must not b
 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
 	... 6 more
 
+[Error - 8:07:23 am] 22-Mar-2021, 8:07:23 AM Timed out while retrieving the attached javadoc for Enum [in Enum.class [in java.lang [in <module:java.base>]]] 
+Timed out while retrieving the attached javadoc for Enum [in Enum.class [in java.lang [in <module:java.base>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for Enum [in Enum.class [in java.lang [in <module:java.base>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 8:07:23 am] 22-Mar-2021, 8:07:23 AM Timed out while retrieving the attached javadoc for Enum [in Enum.class [in java.lang [in <module:java.base>]]] 
+Timed out while retrieving the attached javadoc for Enum [in Enum.class [in java.lang [in <module:java.base>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for Enum [in Enum.class [in java.lang [in <module:java.base>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 8:07:23 am] 22-Mar-2021, 8:07:23 AM Timed out while retrieving the attached javadoc for ElementScanner6 [in ElementScanner6.class [in javax.lang.model.util [in <module:java.compiler>]]] 
+Timed out while retrieving the attached javadoc for ElementScanner6 [in ElementScanner6.class [in javax.lang.model.util [in <module:java.compiler>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for ElementScanner6 [in ElementScanner6.class [in javax.lang.model.util [in <module:java.compiler>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 8:07:23 am] 22-Mar-2021, 8:07:23 AM Timed out while retrieving the attached javadoc for ElementScanner6 [in ElementScanner6.class [in javax.lang.model.util [in <module:java.compiler>]]] 
+Timed out while retrieving the attached javadoc for ElementScanner6 [in ElementScanner6.class [in javax.lang.model.util [in <module:java.compiler>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for ElementScanner6 [in ElementScanner6.class [in javax.lang.model.util [in <module:java.compiler>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 8:07:23 am] 22-Mar-2021, 8:07:23 AM Timed out while retrieving the attached javadoc for ElementScanner6 [in ElementScanner6.class [in javax.lang.model.util [in <module:java.compiler>]]] 
+Timed out while retrieving the attached javadoc for ElementScanner6 [in ElementScanner6.class [in javax.lang.model.util [in <module:java.compiler>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for ElementScanner6 [in ElementScanner6.class [in javax.lang.model.util [in <module:java.compiler>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 8:07:24 am] 22-Mar-2021, 8:07:24 AM Timed out while retrieving the attached javadoc for Element [in Element.class [in javax.lang.model.element [in <module:java.compiler>]]] 
+Timed out while retrieving the attached javadoc for Element [in Element.class [in javax.lang.model.element [in <module:java.compiler>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for Element [in Element.class [in javax.lang.model.element [in <module:java.compiler>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 8:07:25 am] 22-Mar-2021, 8:07:25 AM Timed out while retrieving the attached javadoc for Element [in Element.class [in javax.lang.model.element [in <module:java.compiler>]]] 
+Timed out while retrieving the attached javadoc for Element [in Element.class [in javax.lang.model.element [in <module:java.compiler>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for Element [in Element.class [in javax.lang.model.element [in <module:java.compiler>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 8:08:22 am] 22-Mar-2021, 8:08:22 AM Timed out while retrieving the attached javadoc for Enum [in Enum.class [in java.lang [in <module:java.base>]]] 
+Timed out while retrieving the attached javadoc for Enum [in Enum.class [in java.lang [in <module:java.base>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for Enum [in Enum.class [in java.lang [in <module:java.base>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 8:08:22 am] 22-Mar-2021, 8:08:22 AM Timed out while retrieving the attached javadoc for Element [in Element.class [in javax.lang.model.element [in <module:java.compiler>]]] 
+Timed out while retrieving the attached javadoc for Element [in Element.class [in javax.lang.model.element [in <module:java.compiler>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for Element [in Element.class [in javax.lang.model.element [in <module:java.compiler>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 8:18:29 am] 22-Mar-2021, 8:18:29 AM Error occured while building workspace. Details: 
+ message: The declared package "mongo_learn" does not match the expected package "mongo_Learn"; code: 536871240; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 1
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 2
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 3
+ message: The import org.bson cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 4
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 5
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoCredential cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 12
+ message: MongoCredential cannot be resolved; code: 570425394; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 13
+ message: MongoDatabase cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 16
+ message: MongoCollection cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+[Error - 8:19:32 am] 22-Mar-2021, 8:19:32 AM Error occured while building workspace. Details: 
+ message: The declared package "mongo_learn" does not match the expected package "mongo_Learn"; code: 536871240; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 1
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 2
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 3
+ message: The import org.bson cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 4
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 5
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoCredential cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 12
+ message: MongoCredential cannot be resolved; code: 570425394; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 13
+ message: MongoDatabase cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 16
+ message: MongoCollection cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+[Error - 8:38:06 am] 22-Mar-2021, 8:38:06 AM Unknown javadoc format for System {key=Ljava/lang/System;} [in System.class [in java.lang [in <module:java.base>]]]
+Unknown javadoc format for System {key=Ljava/lang/System;} [in System.class [in java.lang [in <module:java.base>]]]
+Java Model Exception: Java Model Status [Unknown javadoc format for System {key=Ljava/lang/System;} [in System.class [in java.lang [in <module:java.base>]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:84)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1048)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.HoverInfoProvider.computeJavadoc(HoverInfoProvider.java:276)
+	at org.eclipse.jdt.ls.core.internal.HoverInfoProvider.computeHover(HoverInfoProvider.java:145)
+	at org.eclipse.jdt.ls.core.internal.handlers.HoverHandler.computeHover(HoverHandler.java:57)
+	at org.eclipse.jdt.ls.core.internal.handlers.HoverHandler.hover(HoverHandler.java:43)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$6(JDTLanguageServer.java:558)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
