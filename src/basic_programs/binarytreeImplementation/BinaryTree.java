@@ -12,18 +12,30 @@ public class BinaryTree {
         return root;
     }
 
-    public Node insert(int data, Node root){
+    public boolean insert(int data){
         Node newNode = new Node(data);
 
         if(root == null){
             root = newNode;
-        }else if(data <= root.getData()){
-            root.setPrevious(insert(data, root.getPrevious()));
-        }else{
-            root.setNext(insert(data, root.getNext()));
+            return true;
+        }
+        Node temp = root;
+        while(true){
+            if(data < temp.getData()){
+                if(temp.getPrevious() == null){
+                    temp.setPrevious(newNode);
+                    return true;
+                }
+                temp = temp.getPrevious();
+            }else{
+                if(temp.getNext() == null){
+                temp.setNext(newNode);
+                return true;
+                }
+                temp = temp.getNext();
+            }        
         }
 
-        return root;
     }
     
 

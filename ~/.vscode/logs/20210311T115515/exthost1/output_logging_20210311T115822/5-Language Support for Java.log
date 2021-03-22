@@ -1420,3 +1420,535 @@ Java Model Exception: Java Model Status [Unknown javadoc format for System {key=
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
 
+[Error - 11:49:06 am] 22-Mar-2021, 11:49:06 AM Timed out while retrieving the attached javadoc for version [in version.class [in jdk.internal.jshell.tool.resources [in <module:jdk.jshell>]]] 
+Timed out while retrieving the attached javadoc for version [in version.class [in jdk.internal.jshell.tool.resources [in <module:jdk.jshell>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for version [in version.class [in jdk.internal.jshell.tool.resources [in <module:jdk.jshell>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 11:49:30 am] 22-Mar-2021, 11:49:30 AM Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package basic_programs.binarytreeImplementation;
+
+public class BinaryTree {
+
+    private Node root;
+
+    public BinaryTree() {
+        this.root = null;
+    }
+
+    public Node getRoot() {
+        return root;
+    }
+
+    public boolean insert(int data){
+        Node newNode = new Node(data);
+
+        if(root == null){
+            root = newNode;
+            return true;
+        }
+        Node *temp
+
+        return root;
+    }
+    
+
+    
+
+    
+    
+}
+
+----------------------------------- SOURCE END -------------------------------------
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.ls.core.internal.commands.SemanticTokensCommand.doProvide(SemanticTokensCommand.java:38)
+	at org.eclipse.jdt.ls.core.internal.commands.SemanticTokensCommand.provide(SemanticTokensCommand.java:29)
+	at org.eclipse.jdt.ls.core.internal.JDTDelegateCommandHandler.executeCommand(JDTDelegateCommandHandler.java:77)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:503)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 11:49:30 am] 22-Mar-2021, 11:49:30 AM Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.ls.core.internal.commands.SemanticTokensCommand.doProvide(SemanticTokensCommand.java:38)
+	at org.eclipse.jdt.ls.core.internal.commands.SemanticTokensCommand.provide(SemanticTokensCommand.java:29)
+	at org.eclipse.jdt.ls.core.internal.JDTDelegateCommandHandler.executeCommand(JDTDelegateCommandHandler.java:77)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:503)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 11:49:30 am] 22-Mar-2021, 11:49:30 AM Error in JDT Core during AST creation
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.ls.core.internal.commands.SemanticTokensCommand.doProvide(SemanticTokensCommand.java:38)
+	at org.eclipse.jdt.ls.core.internal.commands.SemanticTokensCommand.provide(SemanticTokensCommand.java:29)
+	at org.eclipse.jdt.ls.core.internal.JDTDelegateCommandHandler.executeCommand(JDTDelegateCommandHandler.java:77)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:503)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 11:49:30 am] 22-Mar-2021, 11:49:30 AM Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package basic_programs.binarytreeImplementation;
+
+public class BinaryTree {
+
+    private Node root;
+
+    public BinaryTree() {
+        this.root = null;
+    }
+
+    public Node getRoot() {
+        return root;
+    }
+
+    public boolean insert(int data){
+        Node newNode = new Node(data);
+
+        if(root == null){
+            root = newNode;
+            return true;
+        }
+        Node *temp
+
+        return root;
+    }
+    
+
+    
+
+    
+    
+}
+
+----------------------------------- SOURCE END -------------------------------------
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at com.microsoft.java.test.plugin.util.TestSearchUtils.parseToAst(TestSearchUtils.java:122)
+	at com.microsoft.java.test.plugin.util.TestSearchUtils.searchCodeLens(TestSearchUtils.java:99)
+	at com.microsoft.java.test.plugin.handler.TestDelegateCommandHandler.executeCommand(TestDelegateCommandHandler.java:48)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:503)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 11:49:30 am] 22-Mar-2021, 11:49:30 AM Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at com.microsoft.java.test.plugin.util.TestSearchUtils.parseToAst(TestSearchUtils.java:122)
+	at com.microsoft.java.test.plugin.util.TestSearchUtils.searchCodeLens(TestSearchUtils.java:99)
+	at com.microsoft.java.test.plugin.handler.TestDelegateCommandHandler.executeCommand(TestDelegateCommandHandler.java:48)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:503)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 11:49:30 am] 22-Mar-2021, 11:49:30 AM Error in JDT Core during AST creation
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at com.microsoft.java.test.plugin.util.TestSearchUtils.parseToAst(TestSearchUtils.java:122)
+	at com.microsoft.java.test.plugin.util.TestSearchUtils.searchCodeLens(TestSearchUtils.java:99)
+	at com.microsoft.java.test.plugin.handler.TestDelegateCommandHandler.executeCommand(TestDelegateCommandHandler.java:48)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:503)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 11:49:30 am] 22-Mar-2021, 11:49:30 AM Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package basic_programs.binarytreeImplementation;
+
+public class BinaryTree {
+
+    private Node root;
+
+    public BinaryTree() {
+        this.root = null;
+    }
+
+    public Node getRoot() {
+        return root;
+    }
+
+    public boolean insert(int data){
+        Node newNode = new Node(data);
+
+        if(root == null){
+            root = newNode;
+            return true;
+        }
+        Node *temp
+
+        return root;
+    }
+    
+
+    
+
+    
+    
+}
+
+----------------------------------- SOURCE END -------------------------------------
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:282)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:120)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:646)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 11:49:30 am] 22-Mar-2021, 11:49:30 AM Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:282)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:120)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:646)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 11:49:30 am] 22-Mar-2021, 11:49:30 AM Error in JDT Core during AST creation
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:282)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:120)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:646)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 11:49:48 am] 22-Mar-2021, 11:49:48 AM Timed out while retrieving the attached javadoc for NegativeArraySizeException [in NegativeArraySizeException.class [in java.lang [in <module:java.base>]]] 
+Timed out while retrieving the attached javadoc for NegativeArraySizeException [in NegativeArraySizeException.class [in java.lang [in <module:java.base>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for NegativeArraySizeException [in NegativeArraySizeException.class [in java.lang [in <module:java.base>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 11:49:48 am] 22-Mar-2021, 11:49:48 AM Timed out while retrieving the attached javadoc for NoClassDefFoundError [in NoClassDefFoundError.class [in java.lang [in <module:java.base>]]] 
+Timed out while retrieving the attached javadoc for NoClassDefFoundError [in NoClassDefFoundError.class [in java.lang [in <module:java.base>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for NoClassDefFoundError [in NoClassDefFoundError.class [in java.lang [in <module:java.base>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 11:52:46 am] 22-Mar-2021, 11:52:46 AM Timed out while retrieving the attached javadoc for ReturnNode [in ReturnNode.class [in jdk.nashorn.internal.ir [in <module:jdk.scripting.nashorn>]]] 
+Timed out while retrieving the attached javadoc for ReturnNode [in ReturnNode.class [in jdk.nashorn.internal.ir [in <module:jdk.scripting.nashorn>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for ReturnNode [in ReturnNode.class [in jdk.nashorn.internal.ir [in <module:jdk.scripting.nashorn>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[Error - 11:54:59 am] 22-Mar-2021, 11:54:59 AM Timed out while retrieving the attached javadoc for TooManyListenersException [in TooManyListenersException.class [in java.util [in <module:java.base>]]] 
+Timed out while retrieving the attached javadoc for TooManyListenersException [in TooManyListenersException.class [in java.util [in <module:java.base>]]] 
+Java Model Exception: Java Model Status [Timed out while retrieving the attached javadoc for TooManyListenersException [in TooManyListenersException.class [in java.util [in <module:java.base>]]] ]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:931)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1088)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1046)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:595)
+	at org.eclipse.jdt.ls.core.internal.javadoc.JavadocContentAccess2.getMarkdownContentReader(JavadocContentAccess2.java:2506)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionResolveHandler.lambda$0(CompletionResolveHandler.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
