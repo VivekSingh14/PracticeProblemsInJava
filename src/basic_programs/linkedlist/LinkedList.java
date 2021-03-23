@@ -1,5 +1,8 @@
 package basic_programs.linkedlist;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class LinkedList {
 
     private Node head;
@@ -123,5 +126,35 @@ public class LinkedList {
             temp = temp.getNext();
         }
         return (temp == head);
+    }
+
+
+    public ArrayList<Integer> sum (Node temp, Node temp2){
+            //int temparr[]= new int[2];
+            List<Integer> list = new ArrayList<>();
+            List<Integer> list2 = new ArrayList<>();
+            //int temparr2[] = new int[2];
+            ArrayList<Integer> sum = new ArrayList<>();
+
+            while(temp != null){
+                list.add(temp.getEmployee().getId());
+                list2.add(temp2.getEmployee().getId());
+                temp = temp.getNext();
+                temp2 = temp2.getNext();
+            }
+            int remainder = 0;
+            for(int i= list.size()-1; i >=0; i--){
+
+                int tempSum = list.get(i)+list2.get(i)+remainder;
+                if(tempSum > 9){
+                    remainder = tempSum / 10;
+                    tempSum = tempSum+ tempSum%10;
+                    sum.add(tempSum);
+                }else{
+                    sum.add(tempSum);
+                }
+            }
+
+        return sum;
     }
 }

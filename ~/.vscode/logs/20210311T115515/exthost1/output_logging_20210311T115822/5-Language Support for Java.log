@@ -1952,3 +1952,303 @@ Java Model Exception: Java Model Status [Timed out while retrieving the attached
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:834)
 
+[Error - 7:32:42 am] 23-Mar-2021, 7:32:42 AM Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package basic_programs.linkedlist;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class LinkedList {
+
+    private Node head;
+
+    public LinkedList() {
+        head = null;
+    }
+    
+    public Node getHead() {
+        return head;
+    }
+
+    public boolean insert(Employee employee){
+           Node newNode = new Node(employee);
+    
+           if(head == null){
+               head = newNode;
+               return true;
+           }
+
+           Node temp = head;
+           while(temp.getNext() != null){
+               temp = temp.getNext();
+           }
+           temp.setNext(newNode);
+
+        return true;
+    }
+    //insert method overloaded for testing purpose
+    public boolean insert(Employee employee, Node node){
+        Node newNode = new Node(employee, node);
+ 
+        if(head == null){
+            head = newNode;
+            return true;
+        }
+
+        Node temp = head;
+        while(temp.getNext() != null){
+            temp = temp.getNext();
+        }
+        temp.setNext(newNode);
+
+     return true;
+ }
+    
+    public void display(){
+        Node temp = head;
+        while(temp != null){
+            System.out.println(temp.getEmployee().getFirstName());
+            temp = temp.getNext();
+        }
+    }
+
+    public void display(Node temp){
+        while(temp != null){
+            System.out.println(temp.getEmployee().getFirstName());
+            temp = temp.getNext();
+        }
+    }
+
+    public String middleNode(){
+        Node slow = head;
+        Node fast = head;
+
+        while(fast.getNext() != null){
+            slow = slow.getNext();
+            fast = fast.getNext().getNext();
+        }
+
+        return slow.getEmployee().getFirstName();
+    }
+
+    public Node reverse(Node temp){
+        Node prev = null;
+        Node current = temp;
+        Node forward = null;
+
+        while (current != null) {
+            forward = current.getNext();
+            current.setNext(prev);
+            prev = current;
+            current = forward;
+        }
+        temp = prev;
+        return temp;
+    }
+
+    public int lengthOfList(Node temp){
+        int count = 0;
+        while(temp != null){
+            count++;
+            temp = temp.getNext();
+        }
+        
+        return count;
+    }
+
+    public String thirdlastNode(){
+        Node temp = head;
+        int totalNodes = 0;
+        while(temp != null){
+            totalNodes++;
+            temp = temp.getNext();
+        }
+         Node temp1 = head;
+        for(int i=1; i < totalNodes-2; i++){
+            temp1 = temp1.getNext();
+        }
+        
+        return temp1.getEmployee().getFirstName();
+    }
+
+    public boolean isCircular(){
+        Node temp = head;
+        if(head == null)
+        return true;
+
+        temp = head.getNext();
+        while(temp != null && temp != head){
+            temp = temp.getNext();
+        }
+        return (temp == head);
+    }
+
+
+    public List<Integer> sum (Node temp, Node temp2){
+            //int temparr[]= new int[2];
+            List<Integer> list = new ArrayList<>();
+            List<Integer> list2 = new ArrayList<>();
+            //int temparr2[] = new int[2];
+            List<Integer> sum = new ArrayList<>();
+
+            while(temp != null){
+                list.add(temp.getEmployee().getId());
+                list2.add(temp2.getEmployee().getId());
+                temp = temp.getNext();
+                temp2 = temp2.getNext();
+            }
+            int remainder = 0;
+            for(int i= list.size()-1; i >=0; i--){
+
+                if(list.get(i)+list2.get(i) > 9){
+                    remainder = (list.get(i)+list2.get(i)) % 10;
+                    (list.get(i)+list2.get(i))
+                }
+            }
+
+        return sum;
+    }
+}
+
+----------------------------------- SOURCE END -------------------------------------
+null
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2193)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2965)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.internal.corext.refactoring.util.RefactoringASTParser.parse(RefactoringASTParser.java:85)
+	at org.eclipse.jdt.internal.corext.refactoring.rename.RefactoringAnalyzeUtil.checkNewSource(RefactoringAnalyzeUtil.java:136)
+	at org.eclipse.jdt.internal.corext.refactoring.code.InlineTempRefactoring.checkFinalConditions(InlineTempRefactoring.java:297)
+	at org.eclipse.jdt.ls.core.internal.corrections.proposals.RefactoringCorrectionProposal.createTextChange(RefactoringCorrectionProposal.java:53)
+	at org.eclipse.jdt.ls.core.internal.corrections.proposals.CUCorrectionProposal.createChange(CUCorrectionProposal.java:115)
+	at org.eclipse.jdt.core.manipulation.ChangeCorrectionProposalCore.getChange(ChangeCorrectionProposalCore.java:150)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionFromProposal(CodeActionHandler.java:228)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:194)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:646)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+[Error - 7:32:42 am] Request textDocument/codeAction failed.
+  Message: Internal error.
+  Code: -32603 
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:645)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+Caused by: java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2193)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2965)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.internal.corext.refactoring.util.RefactoringASTParser.parse(RefactoringASTParser.java:85)
+	at org.eclipse.jdt.internal.corext.refactoring.rename.RefactoringAnalyzeUtil.checkNewSource(RefactoringAnalyzeUtil.java:136)
+	at org.eclipse.jdt.internal.corext.refactoring.code.InlineTempRefactoring.checkFinalConditions(InlineTempRefactoring.java:297)
+	at org.eclipse.jdt.ls.core.internal.corrections.proposals.RefactoringCorrectionProposal.createTextChange(RefactoringCorrectionProposal.java:53)
+	at org.eclipse.jdt.ls.core.internal.corrections.proposals.CUCorrectionProposal.createChange(CUCorrectionProposal.java:115)
+	at org.eclipse.jdt.core.manipulation.ChangeCorrectionProposalCore.getChange(ChangeCorrectionProposalCore.java:150)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionFromProposal(CodeActionHandler.java:228)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:194)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:646)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	... 6 more
+
+[Error - 7:38:08 am] 23-Mar-2021, 7:38:08 AM Unable to load IDecompiler class for jarFileContentProvider
+[Error - 7:40:28 am] 23-Mar-2021, 7:40:28 AM Error occured while building workspace. Details: 
+ message: The declared package "mongo_learn" does not match the expected package "mongo_Learn"; code: 536871240; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 1
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 2
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 3
+ message: The import org.bson cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 4
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 5
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoCredential cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 12
+ message: MongoCredential cannot be resolved; code: 570425394; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 13
+ message: MongoDatabase cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 16
+ message: MongoCollection cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+[Error - 7:43:38 am] 23-Mar-2021, 7:43:38 AM Error occured while building workspace. Details: 
+ message: The declared package "mongo_learn" does not match the expected package "mongo_Learn"; code: 536871240; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 1
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 2
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 3
+ message: The import org.bson cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 4
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 5
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoCredential cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 12
+ message: MongoCredential cannot be resolved; code: 570425394; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 13
+ message: MongoDatabase cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 16
+ message: MongoCollection cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+[Error - 7:46:12 am] 23-Mar-2021, 7:46:12 AM Error occured while building workspace. Details: 
+ message: The declared package "mongo_learn" does not match the expected package "mongo_Learn"; code: 536871240; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 1
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 2
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 3
+ message: The import org.bson cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 4
+ message: The import com.mongodb cannot be resolved; code: 268435846; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 5
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoClient cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 9
+ message: MongoCredential cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 12
+ message: MongoCredential cannot be resolved; code: 570425394; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 13
+ message: MongoDatabase cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 16
+ message: MongoCollection cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 18
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+ message: Document cannot be resolved to a type; code: 16777218; resource: /home/vivek/Desktop/PracticeProblems_Java/src/mongo_Learn/MongoDB_Connection_Test.java; line: 20
+[Error - 7:52:04 am] 23-Mar-2021, 7:52:04 AM Unable to load IDecompiler class for jarFileContentProvider

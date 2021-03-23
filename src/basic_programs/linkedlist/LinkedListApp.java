@@ -1,4 +1,8 @@
 package basic_programs.linkedlist;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class LinkedListApp {
     public static void main(String args[]){
         Employee employee1 = new Employee(1, 26, "Vivek", "Singh", "Baner");
@@ -7,9 +11,9 @@ public class LinkedListApp {
         Employee employee4 = new Employee(4, 30, "Suraj", "Kendhey", "Nagpur");
         Employee employee5 = new Employee(5, 31, "Anish", "Abrahim", "Pune");
         LinkedList list = new LinkedList();
-        list.insert(employee1);
-        list.insert(employee2);
-        list.insert(employee3);
+        //list.insert(employee1);
+        //list.insert(employee2);
+        //list.insert(employee3);
         list.insert(employee4);
         list.insert(employee5);
 
@@ -19,7 +23,7 @@ public class LinkedListApp {
 
 
         System.out.println("**********************");
-        list.display();
+        //list.display();
         System.out.println("**********************");
         //System.out.println("*************Middle Node***************");
         //System.out.println(list.middleNode());
@@ -32,7 +36,21 @@ public class LinkedListApp {
         //System.out.println(list.thirdlastNode());
 
         // checking if list is circular !
-        System.out.println("is list circular: "+ list.isCircular());
+        //System.out.println("is list circular: "+ list.isCircular());
+
+        LinkedList list2 = new LinkedList();
+        list2.insert(employee2);
+        list2.insert(employee3);
+
+        //System.out.println("size of list1: "+list.lengthOfList(list.getHead()));
+
+        //System.out.println("size of list2: " + list2.lengthOfList(list2.getHead()));
         
+        System.out.println("********Sum of two lists*********");
+        ArrayList<Integer> sum = list.sum(list.getHead(), list2.getHead()); 
+        for(int i = sum.size()-1; i >=0; i--){
+            System.out.print(sum.get(i)+" ");
+        }
+        System.out.println();
     }
 }
