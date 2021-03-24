@@ -1,11 +1,10 @@
 package basic_programs.linkedlist;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class LinkedListApp {
     public static void main(String args[]){
-        Employee employee1 = new Employee(1, 26, "Vivek", "Singh", "Baner");
+        //Employee employee1 = new Employee(1, 26, "Vivek", "Singh", "Baner");
         Employee employee2 = new Employee(2, 27, "Rajat", "Sharma", "Jaipur");
         Employee employee3 = new Employee(3, 29, "Akash", "banerjee", "Kolkata");
         Employee employee4 = new Employee(4, 30, "Suraj", "Kendhey", "Nagpur");

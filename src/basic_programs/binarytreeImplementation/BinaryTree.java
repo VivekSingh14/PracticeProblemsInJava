@@ -35,12 +35,26 @@ public class BinaryTree {
                 temp = temp.getNext();
             }        
         }
-
     }
     
+    public int maxElement(Node temp){
 
+        while(temp.getNext() != null){
+            temp = temp.getNext();
+        }
+
+        return temp.getData();
+    }
     
+    public int minElement(Node temp){
 
+        while(temp.getPrevious() != null){
+            temp = temp.getPrevious();
+        }
+
+        return temp.getData();
+
+    }
     
     
 }
