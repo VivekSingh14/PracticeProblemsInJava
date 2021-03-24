@@ -19078,3 +19078,5244 @@ Created Time: 2021-03-23 08:22:03.621
 
 !ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:52:34.396
 !MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:53:01.334
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:53:56.001
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:15.215
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:15.589
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:15.590
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:16.258
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:21.853
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:21.854
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:22.018
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:22.036
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:38.827
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:38.845
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:38.848
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:41.230
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:41.307
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 21:54:41.538
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:30.940
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:30.941
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:35.922
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:35.925
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:38.878
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.062
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.135
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.135
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.161
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.214
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.279
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.734
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.734
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.739
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.739
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:39.739
+!MESSAGE Validated 2. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:40.536
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:40.642
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:40.710
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:40.785
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:41.016
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:42.371
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:42.560
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:42.633
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:42.634
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:42.656
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:42.710
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:42.824
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.242
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.244
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.486
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.487
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.511
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:53:43.521
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.581
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.596
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.647
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.670
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.671
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.747
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:43.943
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.340
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.361
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.361
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.377
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.377
+!MESSAGE 3 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.390
+!MESSAGE Validated 2. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.639
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.685
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.881
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.933
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.957
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.957
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:44.981
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:45.032
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:45.138
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:45.603
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:45.604
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:45.636
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:45.636
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:45.636
+!MESSAGE Validated 2. Took 47 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:45.905
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:46.055
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:46.223
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:46.329
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:46.395
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:46.448
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:46.470
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:46.471
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:46.545
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:46.676
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:46.873
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:47.100
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:47.101
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:47.119
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:47.119
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:47.119
+!MESSAGE Validated 2. Took 42 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:47.907
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:48.081
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:48.135
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:48.186
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:48.188
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:48.319
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:48.461
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:48.612
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:48.729
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:48.918
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.097
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.150
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.175
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.175
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.248
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.321
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.802
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.802
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.819
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.819
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:49.819
+!MESSAGE Validated 2. Took 47 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.100
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.271
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.387
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.461
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.541
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.658
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.710
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.733
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.734
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.807
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:50.915
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.064
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.276
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.358
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.445
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.498
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.522
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.522
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.573
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.743
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.795
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.820
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.820
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.893
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:51.976
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:52.300
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:52.466
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:52.521
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:52.543
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:52.543
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:52.617
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:52.753
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.164
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.217
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.218
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.247
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.247
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.247
+!MESSAGE Validated 2. Took 41 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.669
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.834
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.886
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.912
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.912
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.933
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:53.983
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:54.073
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:54.211
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:54.401
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:54.452
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:54.480
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:54.480
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:54.500
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:54.551
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:54.614
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:54.823
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:55.079
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:55.079
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:55.106
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:55.107
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:55.107
+!MESSAGE Validated 2. Took 42 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:56.096
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:56.291
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:56.345
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:56.370
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:56.371
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:56.390
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:56.441
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:56.551
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.021
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.021
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.037
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.037
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.038
+!MESSAGE Validated 2. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.044
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.208
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.287
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.287
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.306
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.341
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.358
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.475
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.943
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.943
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.970
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.971
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:57.971
+!MESSAGE Validated 2. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.098
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.104
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:53:58.153
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.204
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.278
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.342
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.343
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.380
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.512
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.565
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.592
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.593
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.638
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.639
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:53:58.648
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.654
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.810
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.863
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.891
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.891
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:58.961
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:59.043
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:59.463
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:59.463
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:59.487
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:59.487
+!MESSAGE 2 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:59.488
+!MESSAGE Validated 2. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:59.750
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:53:59.785
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:02.063
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:02.241
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:02.295
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:02.341
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:02.416
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:02.577
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:02.741
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:02.745
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:02.750
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:02.867
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.039
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.092
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.118
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.118
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.190
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.270
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.684
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.684
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.701
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.701
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.702
+!MESSAGE Validated 2. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:03.965
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:04.045
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.175
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.346
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.348
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:08.375
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.441
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.538
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.540
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:08.547
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.651
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.652
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:08.668
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.794
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.796
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:08.807
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.831
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:08.988
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.040
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.068
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.068
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.139
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.197
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.280
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.472
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.524
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.551
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.552
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.620
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:09.698
+!MESSAGE Reconciled 0. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.165
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.165
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.245
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.245
+!MESSAGE 2 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.247
+!MESSAGE Validated 2. Took 98 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.375
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.400
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.406
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:10.427
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.471
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.564
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.692
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.694
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.830
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.893
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.983
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:10.988
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:11.005
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:11.107
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:11.286
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:11.339
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:11.366
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:11.367
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:11.436
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:11.556
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.024
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.024
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.041
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.041
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.041
+!MESSAGE Validated 2. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.299
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.299
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.614
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.815
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.817
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:12.823
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:12.904
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:13.002
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:13.004
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:13.011
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:13.145
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:13.147
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:13.152
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:13.318
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:13.371
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:13.399
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:13.403
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:13.470
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:13.597
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.052
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.053
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.065
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.065
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.067
+!MESSAGE Validated 2. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.151
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.308
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.349
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.401
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.430
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.430
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.499
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:14.597
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.002
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.002
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.009
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.009
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.009
+!MESSAGE Validated 2. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.274
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.482
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.484
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.928
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.929
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.930
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.930
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.930
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.945
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:15.945
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:15.971
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.013
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.030
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.380
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.458
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.459
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:16.488
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.506
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.630
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.694
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.710
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.710
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.730
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.780
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:16.910
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:17.249
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:17.365
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:17.365
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:17.376
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:17.376
+!MESSAGE 3 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:17.377
+!MESSAGE Validated 2. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:17.639
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:17.925
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:18.261
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:18.419
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:18.471
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:18.503
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:18.504
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:18.518
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:18.569
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:18.664
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:19.124
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:19.125
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:19.140
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:19.140
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:19.140
+!MESSAGE Validated 2. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:19.592
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:20.335
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:20.439
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:20.484
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:20.546
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:20.787
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:21.423
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:21.779
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:21.829
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:22.083
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:22.152
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:22.244
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:24.537
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:24.543
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:26.170
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:26.171
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:26.171
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:26.353
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:26.473
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:26.473
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:28.192
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:28.860
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.030
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.117
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.118
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.126
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.180
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.313
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.470
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.647
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.735
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.735
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.746
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.796
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:29.924
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.221
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.224
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:30.279
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.310
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.397
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.459
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.460
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.496
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.632
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.698
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.830
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:30.990
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:31.061
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:31.219
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:31.274
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:31.467
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:31.555
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:31.555
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:31.617
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:31.728
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.170
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.172
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:32.223
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.248
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.268
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.268
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.366
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.498
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.689
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.777
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.778
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.839
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:32.903
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:33.302
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:33.379
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:33.379
+!MESSAGE 3 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:33.389
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:33.389
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:33.390
+!MESSAGE Validated 2. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:35.631
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:35.632
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:35.637
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:35.782
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:35.786
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:35.790
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:35.905
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:35.949
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:36.121
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:36.158
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:36.265
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:36.370
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:36.542
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:36.595
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:36.630
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:36.630
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:36.692
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:36.786
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.204
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.205
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.226
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.227
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.227
+!MESSAGE Validated 2. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.475
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.512
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.721
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.888
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.941
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.986
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:37.987
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:38.135
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:38.293
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:38.464
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:38.516
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:38.552
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:38.552
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:38.613
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:38.702
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.007
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.179
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.232
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.267
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.267
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.329
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.461
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.893
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.928
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.929
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.950
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.950
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:39.951
+!MESSAGE Validated 2. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.077
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.081
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.313
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.314
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.340
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:40.342
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.371
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.417
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.614
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.666
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.702
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.703
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.764
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:40.872
+!MESSAGE Reconciled 0. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:41.290
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:41.291
+!MESSAGE 3 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:41.311
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:41.311
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:41.312
+!MESSAGE Validated 2. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:41.563
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:41.653
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:42.214
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:42.344
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:42.494
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:42.515
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:42.582
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:42.781
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:42.831
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:42.869
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:42.869
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:42.931
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.036
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.457
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.457
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.475
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.475
+!MESSAGE 1 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.475
+!MESSAGE Validated 2. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.719
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.729
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:43.774
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.795
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.819
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.897
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.941
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:43.941
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.100
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.144
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.145
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.315
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.367
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.403
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.403
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.465
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.548
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.791
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:44.964
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.042
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.244
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.396
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.448
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.485
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.485
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.547
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.649
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.686
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.687
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.836
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.837
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:45.962
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.093
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.264
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.317
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.352
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.352
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.414
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.547
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.550
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.725
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.757
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:46.763
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.772
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.937
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:46.939
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.056
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.231
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.290
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.319
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.320
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.379
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.445
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.448
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:47.453
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.460
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.620
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.673
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.708
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.709
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.770
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.850
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:47.881
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:48.257
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:48.257
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:48.268
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:48.268
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:48.269
+!MESSAGE Validated 2. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:48.520
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:48.655
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:48.902
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:49.075
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:49.127
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:49.194
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:49.197
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:49.365
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:49.453
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:49.454
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:49.516
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:49.598
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.066
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.066
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.084
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.084
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.085
+!MESSAGE Validated 2. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.396
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.559
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.647
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.647
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.658
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.709
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:50.850
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:51.263
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:51.263
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:51.298
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:51.298
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:51.300
+!MESSAGE Validated 2. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:52.359
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:52.471
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:52.663
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:58.569
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:58.573
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:58.761
+!MESSAGE >> document/didChange
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:54:58.800
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:58.854
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:58.854
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:58.864
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:58.917
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:58.969
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.136
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.225
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.225
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.286
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.424
+!MESSAGE Reconciled 0. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.505
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.630
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.681
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.719
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.719
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.780
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:54:59.981
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.463
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.463
+!MESSAGE 3 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.470
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.474
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.474
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.475
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.476
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.576
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.583
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.751
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.842
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.842
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:00.900
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:01.035
+!MESSAGE Reconciled 0. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:01.460
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:01.460
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:01.480
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:01.480
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:01.481
+!MESSAGE Validated 2. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:04.599
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:04.601
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:04.601
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:04.773
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:04.841
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:04.910
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:04.911
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:05.613
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:05.614
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:05.614
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:05.615
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:05.791
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:05.933
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:05.933
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.279
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.282
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:13.291
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.365
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.367
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:13.372
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.539
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.541
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:13.549
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.554
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.722
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.724
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:13.730
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.897
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.949
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.986
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:13.986
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.047
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.097
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.100
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:14.105
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.290
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.292
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:14.300
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.430
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.432
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:14.438
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.600
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.603
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:14.613
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.727
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.730
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:14.736
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.824
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:14.827
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:14.833
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.003
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.056
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.093
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.093
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.154
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.228
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.251
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.581
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.705
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.793
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:15.978
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.067
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.068
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.129
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.197
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.648
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.649
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.673
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.673
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.673
+!MESSAGE Validated 2. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.785
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.963
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:16.966
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.193
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.193
+!MESSAGE >> document/didChange
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:17.205
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.229
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.235
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.342
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.386
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.528
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.688
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.741
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.776
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.776
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.838
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:17.982
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:18.455
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:18.455
+!MESSAGE 3 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:18.477
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:18.477
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:18.477
+!MESSAGE Validated 2. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:18.723
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:18.757
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:19.228
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:19.394
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:19.463
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:19.493
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:19.624
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:19.782
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:19.955
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.006
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.043
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.044
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.105
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.187
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.610
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.611
+!MESSAGE 3 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.628
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.628
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.628
+!MESSAGE Validated 2. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.645
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.840
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.891
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.917
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.929
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.929
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:20.989
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:21.100
+!MESSAGE Reconciled 0. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:21.535
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:21.535
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:21.542
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:21.542
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:21.542
+!MESSAGE Validated 2. Took 41 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:21.795
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:28.258
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:28.503
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:28.547
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:28.611
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:28.779
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:28.834
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:28.868
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:28.868
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:28.928
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.065
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.520
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.520
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.536
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.536
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.536
+!MESSAGE Validated 2. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.670
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.856
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.878
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.907
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.945
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:29.945
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:30.006
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:30.131
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:30.587
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:30.587
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:30.616
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:30.616
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:30.617
+!MESSAGE Validated 2. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:30.847
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:37.998
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:37.999
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:38.012
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.018
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.168
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.222
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.258
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.258
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.268
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.319
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.402
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.885
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.885
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.895
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.895
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:38.895
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:39.146
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:39.200
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:40.872
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.042
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.094
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.132
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.132
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.139
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.193
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.326
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.700
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.808
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.809
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.819
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.819
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:41.820
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:42.071
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:42.506
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:42.692
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:42.733
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:42.768
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:42.769
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:42.778
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:42.829
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:42.909
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.186
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.254
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.317
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.318
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.322
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.323
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.323
+!MESSAGE Validated 2. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.492
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.574
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.690
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.880
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.971
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.971
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:43.979
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:44.030
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:44.157
+!MESSAGE Reconciled 0. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:44.456
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:44.470
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:44.695
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:44.717
+!MESSAGE >> document/didChange
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:44.749
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:44.767
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:44.781
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:44.904
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:44.905
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:45.050
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:45.141
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:45.142
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:45.200
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:45.322
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:45.737
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:45.738
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:45.767
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:45.767
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:45.768
+!MESSAGE Validated 2. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.091
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.144
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.291
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.416
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.463
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.621
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.793
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.847
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.884
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.884
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:46.943
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:47.024
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:47.496
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:47.497
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:47.512
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:47.512
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:47.513
+!MESSAGE Validated 2. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:47.579
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:47.778
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:47.836
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:47.927
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.002
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.198
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.289
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.289
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.348
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.464
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.759
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.760
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:48.766
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.922
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.962
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:48.979
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:48.983
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.100
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.118
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:49.125
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.295
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.349
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.387
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.387
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.446
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.505
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.564
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.743
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:49.899
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.096
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.148
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.188
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.188
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.247
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.352
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.506
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.508
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:50.513
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.661
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.663
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:50.672
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.753
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.756
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:50.761
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.870
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:50.872
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:50.876
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.042
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.096
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.134
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.134
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.193
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.323
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.639
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.641
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:51.646
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.659
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.826
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.829
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:51.834
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.956
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:51.958
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:51.968
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.134
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.135
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.144
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:52.148
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.306
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.309
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:52.313
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.499
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.550
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.590
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.590
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.649
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:52.760
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.234
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.234
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.249
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.249
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.249
+!MESSAGE Validated 2. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.469
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.501
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.708
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.882
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.935
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.973
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.973
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:53.981
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:54.033
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:54.161
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:54.386
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:54.581
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:54.632
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:54.672
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:54.672
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:54.680
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:54.731
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:54.791
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:55.233
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:55.234
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:55.255
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:55.256
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:55.256
+!MESSAGE Validated 2. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:55.504
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:56.658
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:56.851
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:56.958
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:56.959
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:57.134
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:57.248
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:57.248
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:57.283
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:57.362
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:57.796
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:57.797
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:57.821
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:57.821
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:57.822
+!MESSAGE Validated 2. Took 57 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.080
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.083
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:55:58.133
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.156
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.181
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.182
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.270
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.351
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.443
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.497
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.534
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.534
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.594
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:58.674
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.154
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.154
+!MESSAGE 3 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.162
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.162
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.162
+!MESSAGE Validated 2. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.189
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.416
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.661
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.849
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.899
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.939
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.939
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.947
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:55:59.999
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:00.117
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:00.549
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:00.549
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:00.567
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:00.567
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:00.567
+!MESSAGE Validated 2. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:00.819
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:00.916
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:00.941
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.144
+!MESSAGE >> document/didChange
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:01.160
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.197
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.198
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.198
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.209
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.391
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.445
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.601
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.655
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.692
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.693
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.752
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.861
+!MESSAGE Reconciled 0. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.904
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.905
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:01.912
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:01.923
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.097
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.148
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.188
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.188
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.247
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.367
+!MESSAGE Reconciled 0. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.466
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.823
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.840
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.841
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.853
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.853
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:02.853
+!MESSAGE Validated 2. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:03.120
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:03.120
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:03.575
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:03.724
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:03.779
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:03.821
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:03.821
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:03.825
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:03.874
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:04.030
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:04.388
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:04.504
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:04.505
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:04.523
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:04.523
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:04.523
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:04.777
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:04.867
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.062
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.118
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.154
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.155
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.161
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.211
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.318
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.329
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.411
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.635
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.729
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.729
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.735
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.736
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:05.736
+!MESSAGE Validated 2. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:06.148
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:07.748
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:07.933
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:08.025
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:08.025
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:08.032
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:08.099
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:08.280
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:08.372
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:08.372
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:08.431
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:08.549
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.004
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.004
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.010
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.010
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.011
+!MESSAGE Validated 2. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.329
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.332
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.349
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:09.450
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.487
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.523
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.633
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.763
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.816
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:09.996
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.047
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.088
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.088
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.122
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.306
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.399
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.399
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.456
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.483
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.673
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.723
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.765
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.765
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.823
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.935
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:10.960
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:11.069
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:11.083
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:11.133
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:11.144
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:11.257
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:11.450
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:11.542
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:11.542
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:11.600
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:11.660
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.074
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.091
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.091
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.109
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.109
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.109
+!MESSAGE Validated 2. Took 48 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.582
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.590
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.779
+!MESSAGE >> document/didChange
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:12.802
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.832
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.855
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.900
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.956
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.994
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:12.994
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.052
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.233
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.331
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.332
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.464
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.465
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.622
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.645
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.697
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.737
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.738
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.796
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:13.918
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:14.122
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:14.136
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:14.263
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:14.324
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:14.325
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:14.373
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:14.408
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:14.408
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:14.413
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:14.465
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:14.588
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:15.007
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:15.007
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:15.027
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:15.027
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:15.028
+!MESSAGE Validated 2. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:15.287
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:17.409
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:17.409
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:17.531
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:17.732
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:17.733
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:17.734
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:17.897
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:17.950
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:17.990
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:17.991
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:18.047
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:18.136
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:18.226
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:18.418
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:18.469
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:18.510
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:18.510
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:18.568
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:18.678
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.008
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.145
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.146
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.158
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.158
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.158
+!MESSAGE Validated 2. Took 30 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.417
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.438
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.666
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.718
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.769
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.811
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.811
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.818
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:19.869
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:20.119
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:20.600
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:20.601
+!MESSAGE 3 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:20.625
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:20.625
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:20.626
+!MESSAGE Validated 2. Took 57 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:20.869
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.141
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.141
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:21.181
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.204
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.240
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.445
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.446
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.624
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.784
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.835
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.882
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.882
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:21.932
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.080
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.107
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.541
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.541
+!MESSAGE 3 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.555
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.555
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.555
+!MESSAGE Validated 2. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.574
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.773
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.824
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.863
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.867
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.867
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.923
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:22.977
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:23.328
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:23.401
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:23.401
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:23.411
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:23.411
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:23.411
+!MESSAGE Validated 2. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:23.702
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:23.801
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:23.992
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.043
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.086
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.086
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.091
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.142
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.256
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.546
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.550
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:24.598
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.769
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.784
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.794
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.815
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:24.975
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.026
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.068
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.069
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.124
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.187
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.551
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.661
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.661
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.684
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.684
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.684
+!MESSAGE Validated 2. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:25.944
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:26.796
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:26.989
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.040
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.083
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.084
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.088
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.139
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.258
+!MESSAGE Reconciled 0. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.621
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.679
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.679
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.710
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.710
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.710
+!MESSAGE Validated 2. Took 51 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:27.948
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:28.150
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:28.324
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:28.377
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:28.418
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:28.419
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:28.422
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:28.474
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:28.604
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:28.917
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:28.990
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:29.048
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:29.048
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:29.062
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:29.062
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:29.062
+!MESSAGE Validated 2. Took 57 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:29.240
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:29.323
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:30.414
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:32.022
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:32.340
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:32.570
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:32.627
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:32.857
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:33.823
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:33.996
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:34.089
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:34.090
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:34.092
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:34.146
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:34.275
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:34.738
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:34.738
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:34.746
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:34.746
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:34.746
+!MESSAGE Validated 2. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:37.425
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:37.623
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:37.717
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:37.717
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:37.721
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:37.778
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:37.879
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.150
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.318
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.413
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.413
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.418
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.469
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.553
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.963
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.963
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.982
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.982
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:38.982
+!MESSAGE Validated 2. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.259
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.262
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.335
+!MESSAGE >> document/didChange
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:42.339
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.370
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.528
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.536
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.579
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.622
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.622
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.678
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:42.787
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.033
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.226
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.278
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.321
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.321
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.326
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.377
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.486
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.939
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.944
+!MESSAGE 1 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.971
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.971
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:43.972
+!MESSAGE Validated 2. Took 85 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:44.214
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:44.809
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:44.811
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.300
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.303
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.303
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.304
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.305
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.358
+!MESSAGE >> document/codeAction
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:45.361
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.404
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.404
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.447
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.449
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:45.737
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.194
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.194
+!MESSAGE 7 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.215
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.215
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.219
+!MESSAGE Validated 2. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.368
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.548
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.600
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.643
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.643
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.676
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.678
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.849
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.900
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.944
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.944
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:46.999
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.077
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.094
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.265
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.368
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.462
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.642
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.693
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.737
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.737
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.792
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:47.913
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.002
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.372
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.373
+!MESSAGE 8 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.382
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.382
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.382
+!MESSAGE Validated 2. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.388
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.400
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:48.486
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.560
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.579
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.661
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.661
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.666
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.673
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.716
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.828
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:48.873
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.062
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.113
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.157
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.157
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.161
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.225
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.231
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:49.351
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.371
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.401
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.552
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.603
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.647
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.647
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.702
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.794
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:49.949
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.111
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.165
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.236
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.236
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.261
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.403
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.427
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.456
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.503
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.874
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.874
+!MESSAGE 6 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.889
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.889
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.889
+!MESSAGE Validated 2. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:50.956
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:51.156
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:51.179
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:51.207
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:51.259
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:51.429
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:51.525
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:51.525
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:51.578
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:51.712
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.176
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.176
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.204
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.204
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.205
+!MESSAGE Validated 2. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.249
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.264
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.493
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.493
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-24 22:56:52.513
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.542
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.559
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.701
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.738
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:52.894
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.025
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.192
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.287
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.288
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.342
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.479
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.962
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.962
+!MESSAGE 2 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.981
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.981
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:53.982
+!MESSAGE Validated 2. Took 52 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.207
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.264
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.459
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.513
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.554
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.554
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.557
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.609
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.720
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.748
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.942
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:54.996
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.038
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.038
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.092
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.160
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.338
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.391
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.434
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.434
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.489
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.563
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.601
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.613
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.985
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:55.986
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:56.003
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:56.007
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:56.008
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:56.259
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:56.363
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:58.346
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:58.465
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:58.512
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:58.580
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:58.601
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:58.655
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:56:58.903
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:01.724
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:01.725
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:01.725
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:01.726
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:01.890
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:01.948
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:02.005
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:02.005
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:02.553
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:02.561
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:04.785
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:04.826
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:04.934
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:04.980
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:05.237
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:43.451
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:57.419
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:57.429
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:58.408
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:57:58.414
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:00.962
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:00.963
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:00.963
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:01.085
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:01.160
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:01.219
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:01.219
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:03.553
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:03.554
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:03.991
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:03.992
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:04.605
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:05.664
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:05.850
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:05.936
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.026
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.078
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.120
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.120
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.176
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.304
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.490
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.784
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.784
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.794
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.794
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:06.794
+!MESSAGE Validated 2. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:07.110
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:07.205
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:07.247
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:07.380
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:07.550
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 22:58:15.179
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:41.016
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:41.020
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:41.730
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:41.732
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:41.732
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:41.732
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:41.904
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:41.989
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:42.002
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:42.002
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:43.335
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:43.536
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:43.538
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:43.832
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:43.835
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:44.221
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:44.451
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:44.961
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.135
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.190
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.211
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.211
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.230
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.282
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.370
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.546
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.598
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.623
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.624
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.696
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.829
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.885
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:45.940
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:46.179
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:46.298
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:46.298
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:46.317
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:46.318
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:46.318
+!MESSAGE Validated 2. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:46.389
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:46.542
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:46.617
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.141
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.317
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.368
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.419
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.426
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.595
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.647
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.673
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.673
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.744
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:47.872
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:48.285
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:48.310
+!MESSAGE begin problem for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:48.310
+!MESSAGE 0 problems reported for /BinaryTree.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:48.325
+!MESSAGE begin problem for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:48.325
+!MESSAGE 0 problems reported for /BinaryTreeApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:48.326
+!MESSAGE Validated 2. Took 52 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:48.366
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:48.617
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:00:53.404
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:01:15.472
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:01:15.475
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:01:15.475
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:01:15.639
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:01:15.687
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:01:15.948
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-24 23:01:15.948
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod

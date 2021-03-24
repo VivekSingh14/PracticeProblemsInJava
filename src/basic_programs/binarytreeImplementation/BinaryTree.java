@@ -55,6 +55,18 @@ public class BinaryTree {
         return temp.getData();
 
     }
+
+    public int heightTree(Node temp){
+
+        if(temp == null){
+            return -1;
+        }
+
+        int leftHeight = heightTree(temp.getPrevious());
+        int rightHeight = heightTree(temp.getNext());
+
+        return Math.max(leftHeight, rightHeight)+1;
+    }
     
     
 }
