@@ -679,3 +679,21 @@ Created Time: 2021-03-25 23:18:48.154
 
 !ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-25 23:19:56.174
 !MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-25 23:20:17.405
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-25 23:21:16.310
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-25 23:21:30.688
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-25 23:21:30.688
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-25 23:21:36.632
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-25 23:21:36.632
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
