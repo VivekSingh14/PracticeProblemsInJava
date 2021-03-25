@@ -157,4 +157,23 @@ public class LinkedList {
 
         return sum;
     }
+
+    public void removeDuplicate(Node headNode){
+        Node temp1 = headNode;
+
+        while(temp1 != null){
+            Node temp2 = temp1.getNext();
+            Node prev1 = null;
+            while(temp2 != null){
+                if(temp1.getEmployee().getId() == temp2.getEmployee().getId() && temp1 != temp2){
+                prev1.setNext(temp2.getNext());
+                break;
+                }
+                prev1 = temp2;
+                temp2 = temp2.getNext();
+            }
+            temp1 = temp1.getNext();
+        }
+
+    }
 }
