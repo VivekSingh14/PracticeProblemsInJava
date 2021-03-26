@@ -1,5 +1,10 @@
 package basic_programs.binarytreeImplementation;
 
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
+
+
 public class BinaryTree {
 
     private Node root;
@@ -66,6 +71,27 @@ public class BinaryTree {
         int rightHeight = heightTree(temp.getNext());
 
         return Math.max(leftHeight, rightHeight)+1;
+    }
+
+    public void levelOrderTraversal(Node tempRoot){
+        Node temp = tempRoot;
+
+        Queue<Node> queue = new LinkedList<Node>();
+        queue.add(temp);
+        while(!queue.isEmpty()){
+            Node test = queue.peek();
+            System.out.println(test.getData());
+            if(test.getPrevious()!= null){
+                queue.add(test.getPrevious());
+            }
+            if(test.getNext() != null){
+                queue.add(test.getNext());
+            }
+
+            queue.remove();
+
+        }
+
     }
     
     

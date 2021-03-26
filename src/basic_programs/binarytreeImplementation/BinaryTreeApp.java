@@ -18,6 +18,10 @@ public class BinaryTreeApp {
         System.out.println("Min Element in tree: "+ b1.minElement(b1.getRoot()));
 
         System.out.println("Height of tree: "+ b1.heightTree(b1.getRoot()));
+
+        System.out.println("*************level order traversal.**********");
+
+        b1.levelOrderTraversal(b1.getRoot());
         
     }
 }
