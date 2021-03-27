@@ -7,5 +7,6 @@
         "**/.settings": true,
         "**/.factorypath": true
     },
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "java.refactor.renameFromFileExplorer": "autoApply"
 }
