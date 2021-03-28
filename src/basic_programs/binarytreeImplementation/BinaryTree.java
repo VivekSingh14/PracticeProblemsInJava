@@ -1,6 +1,5 @@
 package basic_programs.binarytreeImplementation;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -80,7 +79,7 @@ public class BinaryTree {
         queue.add(temp);
         while(!queue.isEmpty()){
             Node test = queue.peek();
-            System.out.println(test.getData());
+            System.out.print(test.getData()+" ");
             if(test.getPrevious()!= null){
                 queue.add(test.getPrevious());
             }
@@ -93,6 +92,32 @@ public class BinaryTree {
         }
 
     }
+
+    public void PreOrder(Node tempRoot){
+        if(tempRoot == null)
+        return ;
+
+        System.out.print(tempRoot.getData()+" ");
+        PreOrder(tempRoot.getPrevious());
+        PreOrder(tempRoot.getNext());
+    }
     
+    public void InOrder(Node tempRoot){
+        if(tempRoot == null){
+            return ;
+        }
+        InOrder(tempRoot.getPrevious());
+        System.out.print(tempRoot.getData()+" ");
+        InOrder(tempRoot.getNext());
+    }
+
+    public void PostOrder(Node tempRoot){
+        if(tempRoot == null){
+            return ;
+        }
+        PostOrder(tempRoot.getPrevious());
+        PostOrder(tempRoot.getNext());
+        System.out.print(tempRoot.getData()+" ");
+    }
     
 }

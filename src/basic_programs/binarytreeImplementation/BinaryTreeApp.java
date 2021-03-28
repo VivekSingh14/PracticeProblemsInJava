@@ -23,5 +23,17 @@ public class BinaryTreeApp {
 
         b1.levelOrderTraversal(b1.getRoot());
         
+        System.out.println("****************PreOrver Traversal*********");
+
+        b1.PreOrder(b1.getRoot());
+        System.out.println();
+
+        System.out.println("***************InOrder Traversal*************");
+        b1.InOrder(b1.getRoot());
+        System.out.println();
+
+        System.out.println("***********PostOrder Traversal*************");
+        b1.PostOrder(b1.getRoot());
+        System.out.println();
     }
 }
