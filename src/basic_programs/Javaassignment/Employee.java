@@ -11,11 +11,13 @@ public class Employee {
     private static final double pt = 200;
     private double netSalary;
     private double grossSalary;
+    private static int objcount;
 
-    public Employee() {}
+    public Employee() {
+        objcount++;
+    }
 
-    public Employee(int employeeId, String employeeName, double basicSalary, double medical) {
-        this.employeeId = employeeId;
+    public Employee(String employeeName, double basicSalary, double medical) {
         this.employeeName = employeeName;
         this.basicSalary = basicSalary;
         this.medical = medical;
@@ -23,6 +25,8 @@ public class Employee {
         setPf(basicSalary);
         setGrossSalary();
         setNetSalary();
+        objcount++;
+        setEmployeeId(objcount);
     }
 
     public int getEmployeeId() {
@@ -30,7 +34,7 @@ public class Employee {
     }
 
     public void setEmployeeId(int employeeId) {
-        this.employeeId = employeeId;
+        this.employeeId = employeeId+1000;
     }
 
     public String getEmployeeName() {
@@ -95,7 +99,9 @@ public class Employee {
         this.grossSalary = getBasicSalary() + getHra()+getMedical();
     }
 
-    
+    public static int totalEmployees(){
+        return objcount;
+    }
     
     
 }
