@@ -9207,3 +9207,1002 @@ Open repository: /home/vivek/Desktop/PracticeProblems_Java
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/Cdac/BoxingTest.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Cdac/BoxingTest.java
+> git cat-file -s 0ff795ec17a74a608924020ed313a0c7150049e5
+> git show --textconv :src/Cdac/CollectionForVector.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Cdac/CollectionForVector.java
+> git cat-file -s 633fd6b75fa88ba2d9eaed5840a1de756510a00d
+> git show --textconv :src/Cdac/Iint.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Cdac/Iint.java
+> git cat-file -s 39492d7daf74a95b94ddbca732dedc7768647107
+> git show --textconv :src/Cdac/ExceptionTest.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Cdac/ExceptionTest.java
+> git cat-file -s 746a532795479230cab7971b139ceb95b4374d70
+> git show --textconv :src/Cdac/InvalidAmountExeption.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Cdac/InvalidAmountExeption.java
+> git cat-file -s fc7e5e00322e0565620245b276292e4c899dc889
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Cdac/Money.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Cdac/Money.java
+> git cat-file -s 591a7398514af4e10e007296dd0a379ef0291601
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/Inheritance/Employee.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Inheritance/Employee.java
+> git cat-file -s 1360dc90af25d1edff3215421dcfe5496d320de1
+> git show --textconv :src/Inheritance/EmployeeApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Inheritance/EmployeeApp.java
+> git cat-file -s 368caaed91886ae060fde5a3f004b6417cf548a6
+> git show --textconv :src/Inheritance/Employee.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Inheritance/Employee.java
+> git cat-file -s 1360dc90af25d1edff3215421dcfe5496d320de1
+> git show --textconv :src/Inheritance/EmployeeApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Inheritance/EmployeeApp.java
+> git cat-file -s 368caaed91886ae060fde5a3f004b6417cf548a6
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/Memory_Learn/Customer.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Memory_Learn/Customer.java
+> git cat-file -s 6964d8dd18833edfd07b8c82c65d1ac70610fc5b
+> git show --textconv :src/Memory_Learn/Var_WR_Memory.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Memory_Learn/Var_WR_Memory.java
+> git cat-file -s d9124998ef2a02a874092ba8daa626672e1df2d0
+> git check-ignore -v -z --stdin
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/basic_programs/LinearSearch.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/LinearSearch.java
+> git cat-file -s a531e01894f39b54ff64fb760d8d94b4d384298f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/basic_programs/linkedlist/LinkedListApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/basic_programs/linkedlist/LinkedListApp.java
+> git cat-file -s 0e9164e521a5c224d6d1b8bef03164f805f64ee7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git show --textconv :src/Cdac/CollectionForVector.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Cdac/CollectionForVector.java
+> git cat-file -s 633fd6b75fa88ba2d9eaed5840a1de756510a00d
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/C.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/C.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/Top.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/Top.java
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git show --textconv :src/Overriding/A.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/A.java
+> git cat-file -s 693674719074f574a1a54860664f32b4146baae8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s cb27dc5a8f91b31dc00c5a4a9ac54eeec4974dee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/App.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s 3804e7c2014a64abe87e6e7bbebddf9777528df7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -10,4 +10,8 @@ public class B extends A{
 	public void Z(){
 		System.out.println("this is Z of class B");
 	}
+
+	public void displayTop(){
+		System.out.println("display top from class B ");
+	}
 }

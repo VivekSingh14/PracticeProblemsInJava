@@ -1,6 +1,5 @@
 package basic_programs.linkedlist;
 
-import java.util.ArrayList;
 
 public class LinkedListApp {
     public static void main(String args[]){

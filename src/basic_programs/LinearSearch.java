@@ -8,6 +8,7 @@ public class LinearSearch {
         System.out.println("Enter the number to be searched: ");
         int num = sc.nextInt();
         int arr[] = {5,3,1,6,7,9,18};
+        sc.close();
         boolean flag  = false;
         int i;
         for( i =0; i< arr.length;i++){
@@ -21,8 +22,6 @@ public class LinearSearch {
         }else{
             System.out.println("Number not found.");
         }
-        
-        sc.close();
-
     }
+
 }

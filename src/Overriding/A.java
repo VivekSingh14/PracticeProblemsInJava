@@ -1,5 +1,5 @@
 package Overriding;
-public class A {
+public class A extends C{
 	public A(){
 		System.out.println("A is called");
 	}
@@ -8,5 +8,8 @@ public class A {
 	}
 	public void Y(){
 		System.out.println("this is y of class A");
+	}
+	public void displayTop(){
+		System.out.println("display top from class A");
 	}
 }
