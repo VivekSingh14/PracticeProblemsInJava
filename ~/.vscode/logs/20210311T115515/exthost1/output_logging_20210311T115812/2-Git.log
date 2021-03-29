@@ -10206,3 +10206,323 @@ Open repository: /home/vivek/Desktop/PracticeProblems_Java
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s ee388052b860821a43b3089c58f7ad88561788e9
+> git show --textconv :src/Overriding/App.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/App.java
+> git cat-file -s ee388052b860821a43b3089c58f7ad88561788e9
+> git show --textconv :src/Overriding/App.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Overriding/B.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/Overriding/B.java
+> git cat-file -s c0bffabff57e96e6daba0f226b34156009a3ce70
+> git show --textconv :src/DesignPatterns/Structural/Shop.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Shop.java
+> git cat-file -s 92b2cec34f4eb1d090aa53868ed55c54178e373d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/Bird.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Bird.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/Sparrow.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Sparrow.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/ToyDuck
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/ToyDuck
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/Sparrow.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Sparrow.java
+> git show --textconv :src/DesignPatterns/Structural/ToyDuck
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/ToyDuck
+> git show --textconv :src/DesignPatterns/Structural/ToyDuck.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/ToyDuck.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/Sparrow.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Sparrow.java
+> git show --textconv :src/DesignPatterns/Structural/ToyDuck.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/ToyDuck.java
+> git show --textconv :src/DesignPatterns/Structural/Sparrow.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Sparrow.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/ToyDuck.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/ToyDuck.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/PlasticToyDuck.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/PlasticToyDuck.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/ToyDuck.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/ToyDuck.java
+> git show --textconv :src/DesignPatterns/Structural/PlasticToyDuck.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/PlasticToyDuck.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/ToyDuck.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/ToyDuck.java
+> git show --textconv :src/DesignPatterns/Structural/PlasticToyDuck.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/PlasticToyDuck.java
+> git show --textconv :src/DesignPatterns/Structural/BirdAdapter.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/BirdAdapter.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/Sparrow.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Sparrow.java
+> git show --textconv :src/DesignPatterns/Structural/BirdAdapter.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/BirdAdapter.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/Main.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Main.java
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/Sparrow.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Sparrow.java
+> git show --textconv :src/DesignPatterns/Structural/BirdAdapter.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/BirdAdapter.java
+> git show --textconv :src/DesignPatterns/Structural/Main.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Main.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/BirdAdapter.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/BirdAdapter.java
+> git show --textconv :src/DesignPatterns/Structural/Main.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Main.java
+> git show --textconv :src/DesignPatterns/Structural/BirdAdapter.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/BirdAdapter.java
+> git show --textconv :src/DesignPatterns/Structural/Main.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Main.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Structural/PlasticToyDuck.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/PlasticToyDuck.java
+> git show --textconv :src/DesignPatterns/Structural/BirdAdapter.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/BirdAdapter.java
+> git show --textconv :src/DesignPatterns/Structural/Main.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Main.java
+> git show --textconv :src/DesignPatterns/Structural/BirdAdapter.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/BirdAdapter.java
+> git show --textconv :src/DesignPatterns/Structural/Main.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Main.java
+> git show --textconv :src/DesignPatterns/Structural/BirdAdapter.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/BirdAdapter.java
+> git show --textconv :src/DesignPatterns/Structural/Main.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Main.java
+> git show --textconv :src/DesignPatterns/Structural/BirdAdapter.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/BirdAdapter.java
+> git show --textconv :src/DesignPatterns/Structural/Main.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/Main.java
+> git show --textconv :src/DesignPatterns/Structural/BirdAdapter.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Structural/BirdAdapter.java
