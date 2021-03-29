@@ -15557,3 +15557,1785 @@ Caused by: org.eclipse.core.runtime.CoreException: End Of File
 
 !ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 21:59:58.406
 !MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:00:22.409
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:01:17.643
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:01:30.845
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:01:30.851
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:01:32.362
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:01:32.362
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:01:37.277
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:01:37.278
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:21.880
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:21.880
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.030
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.204
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.284
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.284
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.302
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.355
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.483
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.957
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.957
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.980
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.980
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:31.980
+!MESSAGE Validated 2. Took 47 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:34.657
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:37.874
+!MESSAGE >> java/checkToStringStatus
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:45.116
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:45.116
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:48.851
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:03:51.130
+!MESSAGE >> java/checkToStringStatus
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:06.183
+!MESSAGE >> java/generateToString
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:06.194
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:06.394
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:06.471
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:06.472
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:06.493
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:06.544
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:06.648
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:07.112
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:07.112
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:07.140
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:07.141
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:07.141
+!MESSAGE Validated 2. Took 42 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:07.887
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:07.998
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:08.057
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:08.101
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:08.364
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:09.481
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:09.482
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:09.482
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:09.483
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:09.660
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:09.715
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:09.803
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:09.807
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:10.274
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:10.279
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:14.320
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:14.321
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:14.321
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:14.495
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:14.618
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:14.618
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:15.233
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:15.235
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:15.982
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:15.983
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:16.864
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:16.864
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:16.864
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:17.006
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:17.053
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:17.156
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:17.156
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:17.648
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:20.111
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:20.115
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:20.410
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:20.413
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:20.742
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.123
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.298
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.352
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.394
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.525
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.611
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.611
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.702
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.872
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.957
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:21.958
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:22.022
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:22.155
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:22.635
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:22.635
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:22.645
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:22.645
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:22.646
+!MESSAGE Validated 2. Took 41 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:22.901
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.176
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.180
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:25.251
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.294
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.308
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.349
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.350
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.469
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.540
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.591
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.625
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.625
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.695
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:25.800
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:26.164
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:26.200
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:26.398
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:26.449
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:26.483
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:26.483
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:26.497
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:26.548
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:26.602
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:27.066
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:27.067
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:27.087
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:27.087
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:27.087
+!MESSAGE Validated 2. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.295
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.299
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:28.349
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.369
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.470
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.539
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.569
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.717
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.770
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.822
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.823
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:28.836
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.845
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:28.993
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.050
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.079
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.079
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.144
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.227
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.649
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.649
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.673
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.673
+!MESSAGE 2 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.674
+!MESSAGE Validated 2. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.933
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:29.972
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:31.504
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:32.002
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:32.022
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:32.064
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:32.082
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:32.118
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:32.143
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:32.176
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:32.203
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:32.437
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:32.700
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.020
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.211
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.263
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.297
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.303
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.311
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.362
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.424
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.893
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.893
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.904
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.916
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.916
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:33.916
+!MESSAGE Validated 2. Took 41 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:34.176
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:34.556
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:34.648
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:34.711
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:34.948
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:35.014
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:35.198
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:35.384
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:35.470
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:35.470
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:35.484
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:35.535
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:35.600
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:35.990
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:35.995
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.215
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.216
+!MESSAGE >> document/didChange
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:36.251
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.290
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.304
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.353
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.412
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.440
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.440
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.506
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.620
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:36.954
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.091
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.091
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.117
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.117
+!MESSAGE 3 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.117
+!MESSAGE Validated 2. Took 47 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.165
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.361
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.413
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.448
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.448
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.463
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.513
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:37.617
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.096
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.097
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.113
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.114
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.114
+!MESSAGE Validated 2. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.379
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.684
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.711
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.925
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.930
+!MESSAGE >> document/codeAction
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:38.939
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.958
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.967
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.967
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:38.975
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.026
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.150
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.307
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.308
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.467
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.520
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.550
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.551
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.564
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.615
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.710
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.960
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:39.962
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:39.984
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.009
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.131
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.185
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.217
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.224
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.231
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.282
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.339
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.365
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.830
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.831
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.838
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.865
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.879
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.879
+!MESSAGE 2 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.879
+!MESSAGE Validated 2. Took 63 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.911
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.946
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.952
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:40.997
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:41.044
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:41.178
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:41.268
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:41.467
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:41.768
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.035
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.229
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.280
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.314
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.314
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.328
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.379
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.488
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.727
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.965
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.965
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.977
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.977
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:42.977
+!MESSAGE Validated 2. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:43.236
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:43.411
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:43.510
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:43.719
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:44.246
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:44.417
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:44.501
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:44.501
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:44.514
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:44.566
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:44.698
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.166
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.166
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.181
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.181
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.181
+!MESSAGE Validated 2. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.194
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.205
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.429
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.430
+!MESSAGE >> document/didChange
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:45.475
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.521
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.565
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.586
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.638
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.672
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.672
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.737
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:45.883
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:46.010
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:46.314
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:46.483
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:46.535
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:46.571
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:46.571
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:46.582
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:46.633
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:46.717
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:47.196
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:47.196
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:47.205
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:47.205
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:47.205
+!MESSAGE Validated 2. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.010
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.015
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:48.087
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.119
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.242
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.242
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.247
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.304
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.410
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.464
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.497
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.498
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.560
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.699
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.987
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:48.989
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.276
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.276
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.276
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.276
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.276
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:49.276
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.288
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.309
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.443
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.898
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.898
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.913
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.913
+!MESSAGE 2 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:49.914
+!MESSAGE Validated 2. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:50.171
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:50.426
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:50.887
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:50.922
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:50.953
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:50.990
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:51.024
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:51.041
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:51.081
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:51.305
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:51.496
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:51.657
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.035
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.232
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.283
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.322
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.322
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.332
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.382
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.486
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.696
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.904
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.904
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.913
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.913
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:52.914
+!MESSAGE Validated 2. Took 27 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:53.186
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:53.406
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:53.485
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:53.710
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:53.747
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:53.929
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.019
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.019
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.029
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.080
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.199
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.616
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.616
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.623
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.624
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.624
+!MESSAGE Validated 2. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.652
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.654
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.769
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.832
+!MESSAGE >> document/didChange
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:54.847
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.938
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:54.961
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.031
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.084
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.121
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.121
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.181
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.284
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.731
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.736
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.736
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.741
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.741
+!MESSAGE 3 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:55.741
+!MESSAGE Validated 2. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.024
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.193
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.244
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.283
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.284
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.292
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.343
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.440
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.894
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.894
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.898
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.898
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:56.898
+!MESSAGE Validated 2. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:57.155
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.048
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.065
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:58.108
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.129
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.223
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.224
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.344
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.400
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.453
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.490
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.491
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.550
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:58.675
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.065
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.067
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:04:59.077
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.086
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.237
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.289
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.327
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.328
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.337
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.387
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.519
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.929
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.929
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.936
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.936
+!MESSAGE 2 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:04:59.936
+!MESSAGE Validated 2. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:00.192
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:00.347
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:00.566
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:00.752
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:00.915
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:01.096
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:01.270
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:01.445
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:01.602
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:01.799
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:01.976
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:02.369
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:02.674
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:02.844
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:02.896
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:02.934
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:02.935
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:02.943
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:02.995
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:03.127
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:03.551
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:03.551
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:03.573
+!MESSAGE begin problem for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:03.573
+!MESSAGE 0 problems reported for /MyApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:03.574
+!MESSAGE Validated 2. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:03.843
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:03.896
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:04.012
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:04.028
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:04.114
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:04.338
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:05:18.137
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:11:10.591
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:11:10.593
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:11:10.593
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:11:10.595
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:11:10.789
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:11:10.853
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:11:10.853
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:11:12.064
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.641
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.644
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.644
+!MESSAGE >> workspace/executeCommand java.project.listSourcePaths
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.645
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.663
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.663
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.687
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.851
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.883
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.934
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.934
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:48.936
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:49.033
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:49.149
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:49.164
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:49.249
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:49.603
+!MESSAGE begin problem for /Shop.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:49.604
+!MESSAGE 0 problems reported for /Shop.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:49.604
+!MESSAGE Validated 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:49.873
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:50.609
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:50.616
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:50.723
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:50.723
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:51.094
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:51.097
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:51.493
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:51.743
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:52.398
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:52.629
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:52.872
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.043
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.150
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.219
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.280
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.461
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.672
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.712
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.771
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.771
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.808
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:53.915
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.326
+!MESSAGE begin problem for /Shop.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.326
+!MESSAGE 1 problems reported for /Shop.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.327
+!MESSAGE Validated 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.539
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.668
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.737
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.798
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.799
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.826
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.860
+!MESSAGE >> workspace/executeCommand java.intellicode.completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:54.991
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:55.155
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:55.194
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:55.372
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:55.493
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:55.682
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:55.720
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:55.905
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:56.073
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:56.235
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:56.415
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:56.466
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:56.476
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:56.476
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:56.565
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:56.686
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY com.microsoft.jdtls.intellicode.core 1 0 2021-03-29 22:12:56.716
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:56.731
+!MESSAGE >> workspace/executeCommand java.intellicode.completion.resolve
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:57.043
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:57.139
+!MESSAGE begin problem for /Shop.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:57.139
+!MESSAGE 0 problems reported for /Shop.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:57.139
+!MESSAGE Validated 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:57.490
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:57.964
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:58.396
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:58.489
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:58.530
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:58.589
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:12:58.836
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:13:00.504
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:13:00.954
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:41:15.461
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:41:15.461
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:41:38.353
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 22:41:38.354
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 23:01:21.281
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 23:01:21.281
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 23:01:23.767
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 23:01:35.997
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-29 23:01:36.246
+!MESSAGE >> workspace/didChangeWatchedFiles 

@@ -102,6 +102,13 @@ public class Employee {
     public static int totalEmployees(){
         return objcount;
     }
+
+    @Override
+    public String toString() {
+        return "Employee [employeeId=" + employeeId + ", employeeName=" + employeeName + ", grossSalary=" + grossSalary
+                + "]";
+    }
+    
     
     
 }

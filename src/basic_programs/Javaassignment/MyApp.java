@@ -25,6 +25,12 @@ public class MyApp {
 
         System.out.println(Employee.totalEmployees());
         System.out.println(e1.getEmployeeId()+" "+e2.getEmployeeId()+" "+e3.getEmployeeId()+" "+e4.getEmployeeId());
+
+
+        System.out.println(e1.toString());
+        System.out.println(e2.toString());
+        System.out.println(e3.toString());
+        System.out.println(e4.toString());
     }
     
 }
