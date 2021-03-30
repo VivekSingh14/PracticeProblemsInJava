@@ -8,5 +8,6 @@
         "**/.factorypath": true
     },
     "explorer.confirmDelete": false,
-    "java.refactor.renameFromFileExplorer": "autoApply"
+    "java.refactor.renameFromFileExplorer": "autoApply",
+    "explorer.confirmDragAndDrop": false
 }

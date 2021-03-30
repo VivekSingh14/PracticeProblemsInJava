@@ -1,4 +1,4 @@
-package DesignPatterns.Creational;
+package DesignPatterns.Creational.singleton;
 
 public class Singleton {
     private static Singleton singleton = null;

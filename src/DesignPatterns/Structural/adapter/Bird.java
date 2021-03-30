@@ -1,4 +1,4 @@
-package DesignPatterns.Structural;
+package DesignPatterns.Structural.adapter;
 
 public interface Bird {
     public void fly();

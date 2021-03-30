@@ -119,5 +119,15 @@ public class BinaryTree {
         PostOrder(tempRoot.getNext());
         System.out.print(tempRoot.getData()+" ");
     }
+
+    public int leafNode(Node temproot){
+        if(temproot == null)
+            return 0;
+
+        if(temproot.getPrevious() == null && temproot.getNext() == null)
+            return 1;
+        else
+            return leafNode(temproot.getPrevious()) + leafNode(temproot.getNext());
+    }
     
 }

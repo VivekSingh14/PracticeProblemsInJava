@@ -1,4 +1,4 @@
-package DesignPatterns.Structural;
+package DesignPatterns.Structural.adapter;
 
 public class Main {
     public static void main(String args[]){
@@ -11,5 +11,6 @@ public class Main {
 
         ToyDuck birdAdapter = new BirdAdapter(sparrow);
         birdAdapter.squeak();
+        
     }
 }

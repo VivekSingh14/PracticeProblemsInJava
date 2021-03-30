@@ -1,4 +1,4 @@
-package DesignPatterns.Structural;
+package DesignPatterns.Structural.adapter;
 
 public class PlasticToyDuck implements ToyDuck{
 

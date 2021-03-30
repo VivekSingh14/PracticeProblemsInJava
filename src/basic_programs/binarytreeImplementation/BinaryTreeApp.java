@@ -13,6 +13,12 @@ public class BinaryTreeApp {
         b1.insert(12);
         System.out.println(b1.getRoot().getData());
 
+        b1.insert(2);
+        System.out.println(b1.getRoot().getData());
+
+        b1.insert(4);
+        System.out.println(b1.getRoot().getData());
+
         System.out.println("Max Element in tree: "+ b1.maxElement(b1.getRoot()));
         
         System.out.println("Min Element in tree: "+ b1.minElement(b1.getRoot()));
@@ -35,5 +41,8 @@ public class BinaryTreeApp {
         System.out.println("***********PostOrder Traversal*************");
         b1.PostOrder(b1.getRoot());
         System.out.println();
+
+        System.out.println("********leaf nodes in tree********");
+        System.out.println(b1.leafNode(b1.getRoot()));
     }
 }
