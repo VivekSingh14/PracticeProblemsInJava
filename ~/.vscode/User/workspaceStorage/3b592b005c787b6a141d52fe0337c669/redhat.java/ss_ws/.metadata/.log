@@ -1,0 +1,90 @@
+!SESSION 2021-03-30 22:03:38.157 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.10
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -data /home/vivek/Desktop/PracticeProblems_Java/~/.vscode/User/workspaceStorage/3b592b005c787b6a141d52fe0337c669/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:40.113
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:40.289
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:40.426
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:40.427
+!MESSAGE Initializing Java Language Server 0.70.0.202103051448
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:40.787
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:40.850
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:40.935
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:43.752
+!MESSAGE Workspace initialized in 2966ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:43.829
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:43.847
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:43.848
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:43.862
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:43.876
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:43.894
+!MESSAGE Creating the Java project JavaLearn_e764641b
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:43.934
+!MESSAGE Finished creating the Java project JavaLearn_e764641b
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:44.004
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:44.008
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:44.431
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:44.439
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:44.764
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:46.706
+!MESSAGE begin problem for /Test.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:46.711
+!MESSAGE 0 problems reported for /Test.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:46.714
+!MESSAGE Validated 1. Took 1548 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:47.162
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:49.040
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:49.045
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:49.073
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-03-30 22:03:49.088
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

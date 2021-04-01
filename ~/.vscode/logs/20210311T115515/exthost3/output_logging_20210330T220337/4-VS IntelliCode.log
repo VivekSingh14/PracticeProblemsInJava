@@ -1,0 +1,14 @@
+Acquiring model 'intellisense-members' for java
+Querying IntelliCode service for available models.
+Downloading model.
+Starting download of https://cdsmprodstg.blob.core.windows.net/models-prod-output/Output_45788CA1782FEF17F07049DB4764F5647A62_975CC5EC71E347A9B047E779B175B7D3?sv=2018-03-28&sr=b&sig=VWRK%2BS5S%2FDZMmPttACz55sFkpcWULOPp6CqMkB3IgG8%3D&se=2021-03-30T17%3A03%3A39Z&sp=r
+Download complete.
+vs-intellicode-java was passed a model: {"modelId":"45788CA1782FEF17F07049DB4764F5647A62","modelPath":"/root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/cache/45788CA1782FEF17F07049DB4764F5647A62_975CC5EC71E347A9B047E779B175B7D3","outputId":"975CC5EC71E347A9B047E779B175B7D3"}.
+Java Extension is activated.
+JavaAPI: {"apiVersion":"0.6","javaRequirement":{"java_home":"/usr/lib/jvm/java-11-openjdk-amd64","java_version":11},"status":"Started","serverMode":"Hybrid"}
+Enabled IntelliCode for Java.
+Acquiring model 'intellisense-members' for javascript
+Querying IntelliCode service for available models.
+Downloading model.
+Starting download of https://cdsmprodstg.blob.core.windows.net/models-prod-output/Output_1A3F919CD5B7725108B03C349630A1C82B03_4A84987F2428442A9EC84563BB2BC063?sv=2018-03-28&sr=b&sig=gzPi6V2XcXs8Uec9IDQ4Ukw8D0FQOOK%2Fb62%2Bsa7%2FLaQ%3D&se=2021-03-30T17%3A56%3A28Z&sp=r
+Download complete.

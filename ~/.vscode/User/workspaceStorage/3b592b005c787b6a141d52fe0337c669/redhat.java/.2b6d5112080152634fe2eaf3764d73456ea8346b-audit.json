@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/vivek/Desktop/PracticeProblems_Java/~/.vscode/User/workspaceStorage/3b592b005c787b6a141d52fe0337c669/redhat.java/.2b6d5112080152634fe2eaf3764d73456ea8346b-audit.json",
+    "files": [
+        {
+            "date": 1617122017853,
+            "name": "/home/vivek/Desktop/PracticeProblems_Java/~/.vscode/User/workspaceStorage/3b592b005c787b6a141d52fe0337c669/redhat.java/client.log.2021-03-30",
+            "hash": "c46e9f2f75ac7f3c07010f3dac96689d"
+        },
+        {
+            "date": 1617124847745,
+            "name": "/home/vivek/Desktop/PracticeProblems_Java/~/.vscode/User/workspaceStorage/3b592b005c787b6a141d52fe0337c669/redhat.java/client.log.2021-03-30.1",
+            "hash": "15d04335709c9e51c66fb0f8e50b5f75"
+        },
+        {
+            "date": 1617124918406,
+            "name": "/home/vivek/Desktop/PracticeProblems_Java/~/.vscode/User/workspaceStorage/3b592b005c787b6a141d52fe0337c669/redhat.java/client.log.2021-03-30.2",
+            "hash": "c66bc03d340770c81b69559b58c1d606"
+        }
+    ]
+}

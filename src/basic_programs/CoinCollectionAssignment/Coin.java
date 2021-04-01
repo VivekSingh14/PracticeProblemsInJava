@@ -59,5 +59,11 @@ public class Coin {
         this.aquiredDate = aquiredDate;
     }
 
+    @Override
+    public String toString() {
+        return "Coin [aquiredDate=" + aquiredDate + ", country=" + country + ", denomination=" + denomination
+                + ", mintingYear=" + mintingYear + ", value=" + value + "]";
+    }
+
     
 }

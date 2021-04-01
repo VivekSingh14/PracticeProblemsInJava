@@ -2,7 +2,8 @@
     "telemetry.machineId": "564ef9782ccd6bc71eafb706ae9a080b86613d05b82083b5f4755942d0003431",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/vivek/Desktop/PracticeProblems_Java/src"
+            "file:///home/vivek/Desktop/PracticeProblems_Java/src",
+            "file:///home/vivek/JavaLearn"
         ],
         "files2": []
     },
@@ -56,6 +57,17 @@
                                     },
                                     "enabled": true,
                                     "label": "/home/vivek/Desktop/PracticeProblems_Java/src"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/vivek/JavaLearn",
+                                        "path": "/home/vivek/JavaLearn",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/vivek/JavaLearn"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1474,5 +1486,5 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/vivek/Desktop/PracticeProblems_Java"
+    "pickerWorkingDir": "/home/vivek"
 }

@@ -1,0 +1,647 @@
+[2021-03-30 23:10:35.644] [exthost] [info] extension host started
+[2021-03-30 23:10:35.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-03-30 23:10:35.670] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-03-30 23:10:35.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-30 23:10:35.679] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-03-30 23:10:35.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-30 23:10:35.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-03-30 23:10:35.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-30 23:10:35.734] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-03-30 23:10:35.755] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-30 23:10:35.755] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-30 23:10:35.811] [exthost] [info] eager extensions activated
+[2021-03-30 23:10:35.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-30 23:10:35.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-30 23:10:35.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-30 23:10:35.823] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-30 23:10:35.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-30 23:10:35.825] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-30 23:10:35.829] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-03-30 23:10:35.829] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-03-30 23:10:39.770] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-03-30 23:10:40.779] [exthost] [info] exiting with code 0
+[2021-03-30 23:10:42.742] [exthost] [info] extension host started
+[2021-03-30 23:10:43.343] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-03-30 23:10:43.343] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-03-30 23:10:43.369] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":false,"extensionId":{"value":"vscjava.vscode-java-test","_lower":"vscjava.vscode-java-test"},"activationEvent":"onLanguage:java"}
+[2021-03-30 23:10:43.372] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/redhat.java-0.76.0/dist/extension
+[2021-03-30 23:10:43.451] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:java"}
+[2021-03-30 23:10:43.451] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/dist/intellicode
+[2021-03-30 23:10:43.524] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":false,"extensionId":{"value":"vscjava.vscode-java-test","_lower":"vscjava.vscode-java-test"},"activationEvent":"onLanguage:java"}
+[2021-03-30 23:10:43.524] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/vscjava.vscode-java-debug-0.31.0/dist/extension
+[2021-03-30 23:10:43.546] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":false,"extensionId":{"value":"vscjava.vscode-java-pack","_lower":"vscjava.vscode-java-pack"},"activationEvent":"onLanguage:java"}
+[2021-03-30 23:10:43.546] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/vscjava.vscode-java-pack-0.13.0/out/extension
+[2021-03-30 23:10:43.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-30 23:10:43.630] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-03-30 23:10:43.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-30 23:10:43.632] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-03-30 23:10:44.404] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-30 23:10:44.404] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-30 23:10:44.500] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-30 23:10:44.500] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-03-30 23:10:44.550] [exthost] [info] eager extensions activated
+[2021-03-30 23:10:44.667] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2021-03-30 23:10:44.801] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2021-03-30 23:10:44.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-30 23:10:44.869] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-30 23:10:44.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-30 23:10:44.875] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-30 23:10:44.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-30 23:10:44.878] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-30 23:10:45.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-03-30 23:10:45.261] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-03-30 23:10:52.355] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":false,"extensionId":{"value":"vscjava.vscode-java-test","_lower":"vscjava.vscode-java-test"},"activationEvent":"onLanguage:java"}
+[2021-03-30 23:10:52.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/vscjava.vscode-java-test-0.28.1/main.js
+[2021-04-01 17:16:12.235] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 17:16:12.238] [exthost] [error] Error: The request (id: 34, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:07:40.831] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:07:40.831] [exthost] [error] Error: The request (id: 57, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:08:49.977] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:08:49.977] [exthost] [error] Error: The request (id: 67, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:09:08.603] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:08.603] [exthost] [error] Error: The request (id: 75, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:09:08.999] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:08.999] [exthost] [error] Error: The request (id: 79, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:09:09.609] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:09.609] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:09:13.798] [exthost] [error] Error: The request (id: 93, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:09:13.800] [exthost] [error] Error: The request (id: 94, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:09:13.801] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:13.801] [exthost] [error] Error: The request (id: 95, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:09:14.997] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:14.997] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:09:17.467] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:17.468] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:09:19.708] [exthost] [error] Error: The request (id: 137, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:09:19.709] [exthost] [error] Error: The request (id: 138, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:09:19.739] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:19.739] [exthost] [error] Error: The request (id: 139, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:09:19.908] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:19.908] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:09:21.994] [exthost] [error] Error: The request (id: 154, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:09:21.996] [exthost] [error] Error: The request (id: 155, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:09:22.027] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:22.027] [exthost] [error] Error: The request (id: 156, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:09:23.012] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:23.012] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:09:54.257] [exthost] [error] Error: The request (id: 188, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:09:54.259] [exthost] [error] Error: The request (id: 189, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:09:55.613] [exthost] [error] Error: The request (id: 197, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:09:55.614] [exthost] [error] Error: The request (id: 198, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:09:55.726] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:55.727] [exthost] [error] Error: The request (id: 199, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:09:56.110] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:56.110] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:09:58.953] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:09:58.953] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:10:03.250] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:03.250] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:10:08.872] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:08.872] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:10:11.879] [exthost] [error] Error: The request (id: 276, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:11.880] [exthost] [error] Error: The request (id: 277, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:11.947] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:11.948] [exthost] [error] Error: The request (id: 279, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:10:13.667] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:13.667] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:10:16.482] [exthost] [error] Error: The request (id: 305, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:16.484] [exthost] [error] Error: The request (id: 306, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:16.603] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:16.603] [exthost] [error] Error: The request (id: 307, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:10:16.782] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:16.782] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:10:19.116] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:19.116] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:10:32.944] [exthost] [error] Error: The request (id: 373, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:32.945] [exthost] [error] Error: The request (id: 374, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:33.401] [exthost] [error] Error: The request (id: 378, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:33.402] [exthost] [error] Error: The request (id: 379, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:33.484] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:33.485] [exthost] [error] Error: The request (id: 375, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:10:34.481] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:34.481] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:10:37.120] [exthost] [error] Error: The request (id: 404, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:37.121] [exthost] [error] Error: The request (id: 405, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:37.906] [exthost] [error] Error: The request (id: 408, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:37.907] [exthost] [error] Error: The request (id: 409, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:39.365] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:39.366] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:10:40.495] [exthost] [error] Error: The request (id: 428, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:40.496] [exthost] [error] Error: The request (id: 429, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:10:41.171] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:41.171] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:10:47.343] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:47.343] [exthost] [error] Error: The request (id: 451, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:10:51.671] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:10:51.671] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:11:05.426] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:11:05.427] [exthost] [error] Error: The request (id: 510, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:11:11.890] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:11:11.890] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:11:22.032] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:11:22.033] [exthost] [error] Error: The request (id: 571, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:11:25.776] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:11:25.776] [exthost] [error] Error: The request (id: 578, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:11:28.207] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:11:28.207] [exthost] [error] Error: The request (id: 584, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:11:48.913] [exthost] [error] Error: The request (id: 631, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:11:48.914] [exthost] [error] Error: The request (id: 632, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:11:49.603] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:11:49.603] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:12:15.883] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:12:15.884] [exthost] [error] Error: The request (id: 672, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:14:28.363] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:14:28.363] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:14:29.450] [exthost] [error] Error: The request (id: 760, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:14:29.451] [exthost] [error] Error: The request (id: 761, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:14:29.519] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:14:29.519] [exthost] [error] Error: The request (id: 762, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:14:29.906] [exthost] [error] Error: The request (id: 767, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:14:29.908] [exthost] [error] Error: The request (id: 768, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:14:29.976] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:14:29.976] [exthost] [error] Error: The request (id: 769, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:14:30.919] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:14:30.919] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:14:37.669] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:14:37.669] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:14:40.155] [exthost] [error] Error: The request (id: 818, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:14:40.156] [exthost] [error] Error: The request (id: 819, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:14:40.472] [exthost] [error] Error: The request (id: 822, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:14:40.474] [exthost] [error] Error: The request (id: 823, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:14:41.112] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:14:41.113] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:15:09.246] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:15:09.246] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:15:19.544] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:15:19.544] [exthost] [error] Error: The request (id: 894, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:15:23.698] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:15:23.698] [exthost] [error] Error: The request (id: 899, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:15:24.328] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:15:24.329] [exthost] [error] Error: The request (id: 900, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:15:27.279] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:15:27.279] [exthost] [error] Error: The request (id: 901, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:15:33.339] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:15:33.339] [exthost] [error] Error: The request (id: 909, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:16:37.840] [exthost] [error] Error: The request (id: 934, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:16:37.843] [exthost] [error] Error: The request (id: 935, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:16:38.397] [exthost] [error] Error: The request (id: 941, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:16:38.398] [exthost] [error] Error: The request (id: 942, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:16:38.470] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:16:38.470] [exthost] [error] Error: The request (id: 943, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:16:39.460] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:16:39.460] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:17:21.097] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:17:21.097] [exthost] [error] Error: The request (id: 977, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:17:50.438] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:17:50.438] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:18:11.304] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:18:11.304] [exthost] [error] Error: The request (id: 1067, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:18:11.712] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:18:11.712] [exthost] [error] Error: The request (id: 1068, method: 'textDocument/hover') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:18:15.175] [exthost] [error] Error: The request (id: 1086, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:18:15.177] [exthost] [error] Error: The request (id: 1087, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:18:15.429] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:18:15.429] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:18:18.526] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:18:18.526] [exthost] [error] Error: The request (id: 1111, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:18:18.977] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:18:18.978] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:18:28.390] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:18:28.391] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:18:38.328] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:18:38.328] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:18:41.913] [exthost] [error] Error: The request (id: 1222, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:18:41.914] [exthost] [error] Error: The request (id: 1223, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:18:41.978] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:18:41.978] [exthost] [error] Error: The request (id: 1224, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-01 23:18:43.055] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:18:43.056] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:19:15.217] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:19:15.218] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:19:15.957] [exthost] [error] Error: The request (id: 1310, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:19:15.959] [exthost] [error] Error: The request (id: 1311, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:19:17.048] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:19:17.048] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:19:29.034] [exthost] [error] Error: The request (id: 1392, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:19:29.034] [exthost] [error] [VisualStudioExptTeam.vscodeintellicode] provider FAILED
+[2021-04-01 23:19:29.038] [exthost] [error] Error: Running the contributed command: 'java.execute.workspaceCommand' failed.
+	at b._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:88571)
+[2021-04-01 23:19:29.258] [exthost] [error] Error: The request (id: 1399, method: 'workspace/executeCommand') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21) java.execute.workspaceCommand
+[2021-04-01 23:19:29.258] [exthost] [error] [VisualStudioExptTeam.vscodeintellicode] provider FAILED
+[2021-04-01 23:19:29.259] [exthost] [error] Error: Running the contributed command: 'java.execute.workspaceCommand' failed.
+	at b._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:88571)
+[2021-04-01 23:19:30.107] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:19:30.108] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-01 23:20:44.578] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-01 23:20:44.578] [exthost] [error] Error: The request (id: 1432, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
