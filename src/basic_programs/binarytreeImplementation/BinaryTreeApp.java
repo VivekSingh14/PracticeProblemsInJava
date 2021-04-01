@@ -42,7 +42,7 @@ public class BinaryTreeApp {
         b1.PostOrder(b1.getRoot());
         System.out.println();
 
-        System.out.println("********leaf nodes in tree********");
+        System.out.println("********leaf nodes in tree*********");
         System.out.println(b1.leafNode(b1.getRoot()));
     }
 }
