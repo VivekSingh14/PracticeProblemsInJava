@@ -1,5 +1,6 @@
 package basic_programs.CoinCollectionAssignment;
 
+import java.util.ArrayList;
 import java.util.Date;
 
 public class Coin {
@@ -65,5 +66,13 @@ public class Coin {
                 + ", mintingYear=" + mintingYear + ", value=" + value + "]";
     }
 
-    
+    public Coin search(String country, int denomination, ArrayList<Coin> list){
+            for (Coin coin : list) {
+                if(coin.getCountry().equals(country) && coin.getDenomination() == denomination){
+                    return coin;
+                }
+            }
+        
+        return null;
+    }
 }
