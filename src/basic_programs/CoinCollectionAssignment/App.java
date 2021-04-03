@@ -36,5 +36,12 @@ public class App {
         System.out.println("#############################");
         System.out.println("********************searching the coin from the list based on country and minting year*******************************");
         test.search2("India", 1998, coincollection);
+
+        System.out.println("#################");
+        System.out.println("****************");
+
+        System.out.println("*****searching the coin from the list based on country, minting year and denomination*******************************");
+        test.search3("India", 1998, 25, coincollection);
+
     }
 }

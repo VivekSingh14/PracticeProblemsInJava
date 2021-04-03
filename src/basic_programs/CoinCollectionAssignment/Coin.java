@@ -83,4 +83,12 @@ public class Coin {
             }
         }
     }
+
+    public void search3(String country, int year, int denomination, ArrayList<Coin> list){
+        for (Coin coin : list) {
+            if(coin.getCountry().equals(country) && coin.getMintingYear() == year && coin.getDenomination() == denomination){
+                System.out.println(coin.toString());
+            }
+        }
+    }
 }
