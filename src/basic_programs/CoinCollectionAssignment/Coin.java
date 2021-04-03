@@ -75,4 +75,12 @@ public class Coin {
         
         return null;
     }
+
+    public void search2(String country, int year, ArrayList<Coin> list){
+        for (Coin coin : list) {
+            if(coin.getCountry().equals(country) && coin.getMintingYear() == year){
+                System.out.println(coin.toString());
+            }
+        }
+    }
 }
