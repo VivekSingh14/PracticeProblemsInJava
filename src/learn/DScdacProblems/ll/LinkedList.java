@@ -20,7 +20,6 @@ public class LinkedList {
 
         Node tempNode =head;
 
-        while()
 
         return false;
     }

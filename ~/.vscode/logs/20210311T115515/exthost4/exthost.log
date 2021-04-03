@@ -3468,3 +3468,14 @@
 	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
 	at Generator.next (<anonymous>)
 	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
+[2021-04-03 23:41:18.234] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-03 23:41:18.234] [exthost] [error] Error: The request (id: 7747, method: 'textDocument/documentSymbol') has been cancelled
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76464
+	at /root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:76758
+	at Immediate.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:1:77117)
+	at processImmediate (internal/timers.js:456:21)
+[2021-04-03 23:41:18.608] [exthost] [error] [redhat.java] provider FAILED
+[2021-04-03 23:41:18.608] [exthost] [error] Error: busy
+	at Object.<anonymous> (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:96157)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/redhat.java-0.76.0/dist/extension.js:15:94940)
