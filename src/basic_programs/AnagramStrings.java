@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class AnagramStrings {
  public static void main(String args[]){
-     //added hardcoded strings 
+     //added hardcoded strings.
      String str1 = "listen";
      String str2 = "silent";
 
