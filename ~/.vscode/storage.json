@@ -238,11 +238,13 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find"
+                        "label": "&&Find",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace"
+                        "label": "&&Replace",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1477,10 +1479,10 @@
             "folder": "file:///home/vivek/Desktop/PracticeProblems_Java/src",
             "backupPath": "/home/vivek/Desktop/PracticeProblems_Java/~/.vscode/Backups/6125ac73ee8acfce87b073b88cbe2ba8",
             "uiState": {
-                "mode": 1,
-                "x": 54,
+                "mode": 0,
+                "x": 171,
                 "y": 64,
-                "width": 1312,
+                "width": 1024,
                 "height": 704
             }
         },

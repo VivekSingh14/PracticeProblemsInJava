@@ -1209,3 +1209,232 @@ Open repository: /home/vivek/Desktop/PracticeProblems_Java
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git cat-file -s dce687f746134471a66c2fb22429bc483faf56e7
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git cat-file -s dce687f746134471a66c2fb22429bc483faf56e7
+> git show --textconv :src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git cat-file -s f0cd19ef065d35c43074a94e3fab2c332b43ded4
+> git show --textconv :src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git cat-file -s a4ba86610bdc5b290d8ab5a0203cc83de3d6d031
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git cat-file -s a4ba86610bdc5b290d8ab5a0203cc83de3d6d031
+> git show --textconv :src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git cat-file -s dce687f746134471a66c2fb22429bc483faf56e7
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git cat-file -s dce687f746134471a66c2fb22429bc483faf56e7
+> git show --textconv :src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git cat-file -s f0cd19ef065d35c43074a94e3fab2c332b43ded4
+> git show --textconv :src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git cat-file -s a4ba86610bdc5b290d8ab5a0203cc83de3d6d031
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git cat-file -s dce687f746134471a66c2fb22429bc483faf56e7
+> git show --textconv :src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git cat-file -s f0cd19ef065d35c43074a94e3fab2c332b43ded4
+> git show --textconv :src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git cat-file -s a4ba86610bdc5b290d8ab5a0203cc83de3d6d031
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git cat-file -s dce687f746134471a66c2fb22429bc483faf56e7
+> git show --textconv :src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git cat-file -s f0cd19ef065d35c43074a94e3fab2c332b43ded4
+> git show --textconv :src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git cat-file -s a4ba86610bdc5b290d8ab5a0203cc83de3d6d031
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/Processor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Processor.java
+> git cat-file -s 33b0055c1fa02d2e193aa3b87fce2cbb89407dc3
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git cat-file -s a4ba86610bdc5b290d8ab5a0203cc83de3d6d031
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Processor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Processor.java
+> git cat-file -s 33b0055c1fa02d2e193aa3b87fce2cbb89407dc3
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git show --textconv :src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git cat-file -s dce687f746134471a66c2fb22429bc483faf56e7
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/Processor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Processor.java
+> git cat-file -s 33b0055c1fa02d2e193aa3b87fce2cbb89407dc3
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git cat-file -s dce687f746134471a66c2fb22429bc483faf56e7
+> git show --textconv :src/DesignPatterns/Behavioral/Processor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Processor.java
+> git cat-file -s 33b0055c1fa02d2e193aa3b87fce2cbb89407dc3
+> git show --textconv :src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git cat-file -s f0cd19ef065d35c43074a94e3fab2c332b43ded4
+> git show --textconv :src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/ZeroProcessor.java
+> git cat-file -s a4ba86610bdc5b290d8ab5a0203cc83de3d6d031
+> git show --textconv :src/DesignPatterns/Behavioral/Processor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Processor.java
+> git cat-file -s 33b0055c1fa02d2e193aa3b87fce2cbb89407dc3
+> git show --textconv :src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git cat-file -s dce687f746134471a66c2fb22429bc483faf56e7
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/TestChainApp.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/TestChainApp.java
+> git cat-file -s 9e904459c7f8ae70ab28b04f7f82684d3e7b0a15
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/PositiveProcessor.java
+> git cat-file -s f0cd19ef065d35c43074a94e3fab2c332b43ded4
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
+> git show --textconv :src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git cat-file -s dce687f746134471a66c2fb22429bc483faf56e7
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/NegativeProcessor.java
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/DesignPatterns/Behavioral/Chain.java
+> git ls-files --stage -- /home/vivek/Desktop/PracticeProblems_Java/src/DesignPatterns/Behavioral/Chain.java
+> git cat-file -s 79395cadb5ca77e28536ca1866c4c7e1d1fa246f
