@@ -9,6 +9,8 @@ public class ColorStore {
     static{
         colorMap.put("Blue", new BlueColor());
         colorMap.put("Black", new BlackColor());
+        colorMap.put("blue", new BlueColor());
+        colorMap.put("black", new BlackColor());
     }
 
     public static Color getColor(String colorName){
