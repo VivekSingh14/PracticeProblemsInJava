@@ -1,4 +1,4 @@
-package DesignPatterns.Behavioral;
+package DesignPatterns.Behavioral.chainOfResponsibility;
 
 public class NegativeProcessor extends Processor {
 

@@ -1,4 +1,4 @@
-package DesignPatterns.Behavioral;
+package DesignPatterns.Behavioral.chainOfResponsibility;
 
 public class TestChainApp {
     public static void main(String args[]){

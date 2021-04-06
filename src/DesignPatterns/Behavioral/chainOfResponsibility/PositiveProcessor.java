@@ -1,4 +1,4 @@
-package DesignPatterns.Behavioral;
+package DesignPatterns.Behavioral.chainOfResponsibility;
 
 public class PositiveProcessor extends Processor{
     public PositiveProcessor(Processor processor) {
