@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Pattern6 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
+        //adding the comment
         System.out.println("Enter the rows.");
         int rows  = sc.nextInt();
         int countFlag = 0;
