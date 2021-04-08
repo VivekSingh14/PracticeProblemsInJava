@@ -131,5 +131,28 @@ public class BinaryTree {
     }
 
     //check if Binary tree is BST or not.
+    public boolean IsBinarySearchTree(Node temproot){
+        if(temproot == null){
+            return true;
+        }
+        if(IsSubTreeLesser(root.getPrevious(), root.getData()) 
+        && IsSubTreeGreater(root.getNext(), root.getData())
+        && IsBinarySearchTree(root.getPrevious())
+        && IsBinarySearchTree(root.getNext())){
+            return true;
+        }
+        
+        return false;
+    }
+
+    private boolean IsSubTreeGreater(Node next, int data) {
+        
+        
+        return false;
+    }
+
+    private boolean IsSubTreeLesser(Node previous, int data) {
+        return false;
+    }
     
 }
