@@ -144,7 +144,7 @@ public class BinaryTree {
         
         return false;
     }
-
+    //checking if left subtree is greater or equal than the root
     private boolean IsSubTreeGreater(Node temproot1, int data) {
         if(temproot1 == null){
             return true;
@@ -157,6 +157,7 @@ public class BinaryTree {
         return false;
     }
 
+    //checking if right subtree is lesser or equal than the root.
     private boolean IsSubTreeLesser(Node temproot2, int data) {
 
         if(temproot2 == null){
