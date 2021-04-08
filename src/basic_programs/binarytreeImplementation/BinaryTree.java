@@ -135,23 +135,37 @@ public class BinaryTree {
         if(temproot == null){
             return true;
         }
-        if(IsSubTreeLesser(root.getPrevious(), root.getData()) 
-        && IsSubTreeGreater(root.getNext(), root.getData())
-        && IsBinarySearchTree(root.getPrevious())
-        && IsBinarySearchTree(root.getNext())){
+        if(IsSubTreeLesser(temproot.getPrevious(), temproot.getData()) 
+        && IsSubTreeGreater(temproot.getNext(), temproot.getData())
+        && IsBinarySearchTree(temproot.getPrevious())
+        && IsBinarySearchTree(temproot.getNext())){
             return true;
         }
         
         return false;
     }
 
-    private boolean IsSubTreeGreater(Node next, int data) {
-        
+    private boolean IsSubTreeGreater(Node temproot1, int data) {
+        if(temproot1 == null){
+            return true;
+        }
+        if(temproot1.getData() >=data && IsSubTreeGreater(temproot1.getPrevious(), data) 
+        && IsSubTreeGreater(temproot1.getNext(), data)){
+            return true;
+        }
         
         return false;
     }
 
-    private boolean IsSubTreeLesser(Node previous, int data) {
+    private boolean IsSubTreeLesser(Node temproot2, int data) {
+
+        if(temproot2 == null){
+            return true;
+        }
+        if(temproot2.getData() <= data  && IsSubTreeLesser(temproot2.getPrevious(), data) 
+        && IsSubTreeLesser(temproot2.getNext(), data)){
+            return true;
+        }
         return false;
     }
     

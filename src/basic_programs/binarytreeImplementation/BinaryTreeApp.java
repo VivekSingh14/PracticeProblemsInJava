@@ -44,5 +44,8 @@ public class BinaryTreeApp {
 
         System.out.println("********leaf nodes in tree*********");
         System.out.println(b1.leafNode(b1.getRoot()));
+
+        System.out.println("**************to check if binary tree is binary search tree or not**********************");
+        System.out.println("is that tree, binary search tree ? "+b1.IsBinarySearchTree(b1.getRoot()));
     }
 }
