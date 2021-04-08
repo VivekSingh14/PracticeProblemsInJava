@@ -129,5 +129,7 @@ public class BinaryTree {
         else
             return leafNode(temproot.getPrevious()) + leafNode(temproot.getNext());
     }
+
+    //check if Binary tree is BST or not.
     
 }
