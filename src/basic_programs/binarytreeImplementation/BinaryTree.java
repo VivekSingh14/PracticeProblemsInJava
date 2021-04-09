@@ -169,5 +169,22 @@ public class BinaryTree {
         }
         return false;
     }
+
+    public void leafNodes(Node temproot){
+        if(temproot == null)
+            return ;
+
+        if(temproot.getPrevious() == null && temproot.getNext() == null){
+            System.out.print(temproot.getData()+" ");
+            return ;
+        }
+
+        if(temproot.getPrevious() != null){
+            leafNodes(temproot.getPrevious());
+        }
+        if(temproot.getNext() != null){
+            leafNodes(temproot.getNext());
+        }
+    }
     
 }
