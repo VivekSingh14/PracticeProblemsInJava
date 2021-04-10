@@ -7,6 +7,7 @@ public class FactorialUsingRecur {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number");
         int num  = sc.nextInt();
+        //finding factorial
         System.out.println(factorial(num));
         sc.close();
     }    
