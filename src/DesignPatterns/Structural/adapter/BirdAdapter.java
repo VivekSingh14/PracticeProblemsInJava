@@ -1,5 +1,6 @@
 package DesignPatterns.Structural.adapter;
 
+//Adapter class
 public class BirdAdapter implements ToyDuck{
         Bird bird;
         
