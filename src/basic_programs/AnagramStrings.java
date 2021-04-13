@@ -8,6 +8,8 @@ public class AnagramStrings {
      String str1 = "listen";
      String str2 = "silent";
 
+     
+
      char strchar1[] = str1.toCharArray();
      char strchar2[] = str2.toCharArray();
      Arrays.sort(strchar1);
