@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Pattern8 {
     public static void main(String args[]){
+        //added pattern 8
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the rows");
         int rows  = sc.nextInt();
