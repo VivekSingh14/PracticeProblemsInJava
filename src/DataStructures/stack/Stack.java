@@ -13,7 +13,7 @@ public class Stack {
         
         Node newnode  = new Node(data);
         
-        if(top == null){
+        if(isStackEmpty()){
             top = newnode;
             return true;
         }
@@ -24,12 +24,22 @@ public class Stack {
     }
 
     public void pop(){
+        
+        if(isStackEmpty()){
+            System.out.println("Stack underflow.");
+            return;
+        }
 
         System.out.println(getTop().getData());
         setTop(getTop().getNext());
     }
 
-
+    public boolean isStackEmpty(){
+        if(getTop() == null){
+            return true;
+        }
+        return false;
+    }
 
     public Node getTop() {
         return top;

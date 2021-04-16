@@ -8,7 +8,7 @@ public class ClientApp {
         stack1.push(3);
         stack1.push(4);
         stack1.push(5);
-        stack1.push(6);
+        //stack1.push(6);
         System.out.println("**********popping out the stack**********");
         stack1.pop();
         stack1.pop();
