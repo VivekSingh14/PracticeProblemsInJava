@@ -3,6 +3,7 @@ package DataStructures.stack;
 public class ClientApp {
     public static void main(String args[]){
         Stack stack1 = new Stack();
+        //pushing the elements into stack.
         stack1.push(1);
         stack1.push(2);
         stack1.push(3);
