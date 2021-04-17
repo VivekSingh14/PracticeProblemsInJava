@@ -2,6 +2,7 @@ package basic_programs;
 
 public class DuplicateInArray {
     public static void main(String args[]){
+        //revised one time
         int arr[] = {8,2,3,8,5,3,6,2};
         
         for(int i = 0; i < arr.length; i++){
