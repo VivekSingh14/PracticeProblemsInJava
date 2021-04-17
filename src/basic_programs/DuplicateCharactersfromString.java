@@ -6,9 +6,12 @@ public class DuplicateCharactersfromString {
     public static void main(String args[]){
         //Scanner sc = new Scanner(System.in);
         //String str = sc.nextLine();
+        
+        //revised one time.
         String str = "aabcadceklmeb";
 
         HashMap<Character, Integer> map = new HashMap<>();
+
 
         for(int i = 0; i < str.length();i++){
             if(!map.containsKey(str.charAt(i))){
