@@ -9,21 +9,21 @@ public class MaxHeap {
         }
 
         System.out.println("Heap after insertion ");
-        insert(arr, arr.length-1);
+        insert(arr, arr.length);
     }
 
     public static void insert(int arr[], int len){
-        int temp = arr[len];
-        int i = len;
+        int temp = arr[len-1];
+        int i = len-1;
 
         while(i > 1 && temp > arr[i/2]){
             arr[i] = arr[i/2];
             i = i/2;
         }
-        arr[i] = temp;
+        arr[i-1] = temp;
 
         for(int j=0;j<arr.length;j++){
-                System.out.print(arr[i]+" ");
+                System.out.print(arr[j]+" ");
         }
         System.out.println();
     }
