@@ -2,6 +2,7 @@ package basic_programs;
 
 public class MaxHeap {
     public static void main(String args[]){
+        //still complex to unverstand
         int arr[] = {40, 35, 15, 30, 10, 12, 6, 5, 20};
         System.out.println("Heap before insertion "+ arr[arr.length-1]);
         for(int i = 0; i<arr.length;i++){
