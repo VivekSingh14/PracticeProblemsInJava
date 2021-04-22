@@ -2,7 +2,6 @@ package DataStructures.linkedlist;
 
 public class LinkedList {
     private Node head;
-    //adding comment...to be deleted later.
     public LinkedList(){
         head = null;
     }
