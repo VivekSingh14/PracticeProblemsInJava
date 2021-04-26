@@ -1,6 +1,7 @@
 public class LargestAndSmallestInUnsorted {
     
     public static void main(String args[]){
+        //to find largest and smallest in unsorted array.
         int arr[] = {3,1,2,8,5,7,6,13,20};
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
