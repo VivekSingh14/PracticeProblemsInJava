@@ -2,6 +2,7 @@ import java.util.HashMap;
 
 public class FindMultipleDuplicatesMethod2 {
     public static void main(String args[]){
+        //find multiple duplicates using hashMap
         int arr[] = {1,4,3,1,2,5,6,2,7,0,5};
         HashMap<Integer, Integer> map = new HashMap<>();
 
