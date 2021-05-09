@@ -1,3 +1,5 @@
+package Revision1;
+
 public class FindMultipleDuplicates {
     public static void main(String args[]){
         //added the method to find out multiple duplicates.

@@ -1,3 +1,5 @@
+package Memory_Learn;
+
 import java.util.HashMap;
 
 public class HashMapDemo extends Thread{

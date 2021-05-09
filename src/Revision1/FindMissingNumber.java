@@ -1,3 +1,5 @@
+package Revision1;
+
 public class FindMissingNumber {
     public static void main(String args[]){
         //To find the missing number from n natural numbers

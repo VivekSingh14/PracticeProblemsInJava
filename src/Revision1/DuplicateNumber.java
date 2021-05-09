@@ -1,3 +1,5 @@
+package Revision1;
+
 public class DuplicateNumber {
     public static void main(String args[]){
         //To find the dupliate number from an array.

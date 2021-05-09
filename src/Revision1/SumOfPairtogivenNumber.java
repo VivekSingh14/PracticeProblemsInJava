@@ -1,3 +1,5 @@
+package Revision1;
+
 public class SumOfPairtogivenNumber {
     public static void main(String args[]){
         // to find the given sum from pair of numbers
