@@ -5,6 +5,7 @@ public class Test {
             //condition for divisibility 3 and 5
             if(i %3 == 0 && i %5 == 0){
                 System.out.println("fizzbuzz");
+            // division 3
             }else if( i % 3 == 0){
                 System.out.println("fizz");
             }else if(i % 5 == 0){
