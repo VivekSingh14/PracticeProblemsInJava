@@ -8,6 +8,7 @@ public class Test {
             // division 3
             }else if( i % 3 == 0){
                 System.out.println("fizz");
+            //division 5
             }else if(i % 5 == 0){
                 System.out.println("buzz");
             }else{
