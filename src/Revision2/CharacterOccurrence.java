@@ -11,7 +11,10 @@ public class CharacterOccurrence {
         }
 
         for(int i=0;i<table1.length;i++ ){
-            System.out.println(table1[i]);
+            if(table1[i] > 0){
+                System.out.print((char)i);
+                System.out.print(table1[i]+" ");
+            }
         }
 
 
