@@ -4,10 +4,11 @@ public class Basic1 extends Thread{
     private int rollno;
 
     public void run(){
-        rollno = 1;
+        rollno = 2;
         System.out.println("checking inside run method whether it is alive or not "+isAlive());
         System.out.println(rollno);
         System.out.println("Inside the run method "+getName());
+
 
     }
 
@@ -26,7 +27,5 @@ public class Basic1 extends Thread{
         
         System.out.println(Basic1.currentThread());
         System.out.println("Inside the main method "+obj.getName());
-
-
     }
 }
