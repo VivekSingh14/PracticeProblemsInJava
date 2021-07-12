@@ -1,6 +1,6 @@
 package Overriding;
 
-import java.util.ArrayList;
+//import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -21,7 +21,7 @@ public class TestingPurposeOnly {
         //System.out.println(list1.size());
 
         //System.out.println("Iterating queue");
-        while(que1){
+        while(que1 != null){
         System.out.println();
         }
         //System.out.println("after removing elements size of list");
