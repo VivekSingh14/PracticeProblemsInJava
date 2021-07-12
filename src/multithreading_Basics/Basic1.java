@@ -9,6 +9,7 @@ public class Basic1 extends Thread{
         System.out.println(rollno);
         System.out.println("Inside the run method "+getName());
 
+
     }
 
     public static void main(String args[]){
@@ -26,7 +27,5 @@ public class Basic1 extends Thread{
         
         System.out.println(Basic1.currentThread());
         System.out.println("Inside the main method "+obj.getName());
-
-
     }
 }
