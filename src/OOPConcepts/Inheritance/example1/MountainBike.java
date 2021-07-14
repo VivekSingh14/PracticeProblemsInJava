@@ -17,5 +17,4 @@ public class MountainBike extends Bicycle{
     public String toString() {
         return "MountainBike [seatHeight=" + seatHeight + "]";
     }
-    
 }
