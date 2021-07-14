@@ -16,6 +16,5 @@ public class MountainBike extends Bicycle{
     @Override
     public String toString() {
         return "MountainBike [seatHeight=" + seatHeight + "]";
-    }
-    
+    }  
 }
