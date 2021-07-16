@@ -9,6 +9,7 @@ public class App {
         One obj2 = new Two();
         obj2.displayOne();
 
+
         
     }   
 }
