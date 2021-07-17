@@ -8,7 +8,7 @@ public class App {
         System.out.println(shape.toString());
         shape.display();
 
-        System.out.println("************Hey removed.*************");
+        System.out.println("*************************");
 
         Circle circle  = new Circle("Blue", 5.0);
         System.out.println(circle.toString());
