@@ -37,6 +37,22 @@ public class App {
         System.out.println("hashcode of both string objects");
         System.out.println("str3: "+str3.hashCode() + " str4: "+ str4.hashCode());
 
+        System.out.println("\n----------------------------------------");
+
+        System.out.println(str2.hashCode());
+        str2 = str2 + "Bye Bye";
+
+        System.out.println(str2);
+        System.out.println(str2.hashCode());
+
+        System.out.println("-------------------------------------------\n");
+
+        System.out.println(str3.hashCode()+" "+ str3);
+        str3 = str3+"Bye Bye1";
+        System.out.println(str3.hashCode()+ " "+ str3);
+
+
+
 
     }   
 }
