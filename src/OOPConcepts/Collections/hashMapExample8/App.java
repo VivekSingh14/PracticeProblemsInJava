@@ -13,6 +13,9 @@ public class App {
         hm.put(103, "Agra Road Jaipur");
         hm.put(104, "Malviya Nagar");
         hm.put(105, "Shastri Nagar");
+        hm.put(106, null);
+        hm.put(107, null);
+        hm.put(null, "Again ");
 
         System.out.println(hm.get(103));
 
