@@ -23,5 +23,11 @@ public class App {
         for (Entry<Integer, String> e : hm.entrySet()) {
             System.out.println(e.getKey()+ " "+ e.getValue());
         }
+
+        System.out.println("*******************************");
+
+        for(int i = 101; i< hm.size()+100; i++ ){
+            System.out.println(hm.get(i));
+        }
     }
 }
