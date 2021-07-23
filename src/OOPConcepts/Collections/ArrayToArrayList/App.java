@@ -11,8 +11,9 @@ public class App {
 
         Integer arr1[] = {Integer.valueOf(1), 
                          Integer.valueOf(2),
-                         new Integer(3),
-                         new Integer(4)};
+                         Integer.valueOf(3),
+                         Integer.valueOf(4),
+                        Integer.valueOf(5)};
 
         funcusingInBuilt(arr1);
     }
