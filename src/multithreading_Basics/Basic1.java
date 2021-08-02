@@ -21,7 +21,7 @@ public class Basic1 extends Thread{
         System.out.println("Thread Priority "+obj.getPriority());
         System.out.println("Thread is alive or not from main method "+obj.isAlive());
 
-
+        //test
         System.out.println("**************Setting up the name*************** ");
         obj.setName("Mini Thread");
         
