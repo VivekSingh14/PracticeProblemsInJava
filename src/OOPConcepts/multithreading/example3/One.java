@@ -9,6 +9,7 @@ public class One implements Runnable{
         this.print = print;
         this.isEvenNumber = isEvenNumber;
     }
+    
     @Override
     public void run() {
         int number = isEvenNumber == true ? 2 : 1;
